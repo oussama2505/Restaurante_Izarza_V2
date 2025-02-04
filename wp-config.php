@@ -100,3 +100,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
+
+
+define('WP_HOME','https://4f74-212-166-220-96.ngrok-free.app');
+define('WP_SITEURL','https://4f74-212-166-220-96.ngrok-free.app');
