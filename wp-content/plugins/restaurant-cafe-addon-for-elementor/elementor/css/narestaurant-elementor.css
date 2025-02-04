@@ -1,0 +1,26 @@
+body.elementor-panel-loading #elementor-panel-state-loading {
+    display: none !important;
+}
+
+#elementor-panel-category-narestaurant-basic-category .elementor-element:after,
+#elementor-panel-category-narestaurant-unique-category .elementor-element:after {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    content: '';
+    z-index: 9;
+    width: 20px;
+    height: 20px;
+    background: url('../../../assets/images/icon.png') no-repeat center;
+}
+
+.elementor-panel #elementor-panel-category-narestaurant-basic-category .elementor-element:hover,
+.elementor-panel #elementor-panel-category-narestaurant-unique-category .elementor-element:hover {
+    border-color: #f7b800;
+}
+.elementor-panel #elementor-panel-category-narestaurant-basic-category .elementor-element:hover .title,
+.elementor-panel #elementor-panel-category-narestaurant-unique-category .elementor-element:hover .title, 
+.elementor-panel #elementor-panel-category-narestaurant-basic-category .elementor-element:hover .icon,
+.elementor-panel #elementor-panel-category-narestaurant-unique-category .elementor-element:hover .icon {
+    color: #f7b800;
+}

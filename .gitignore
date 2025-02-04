@@ -1,0 +1,7 @@
+/wp-content/uploads/
+/wp-content/upgrade/
+/wp-content/cache/
+/wp-config.php
+/node_modules/
+/vendor/
+*.log
