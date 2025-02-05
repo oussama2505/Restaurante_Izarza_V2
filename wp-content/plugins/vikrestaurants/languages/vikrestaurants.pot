@@ -1,0 +1,4359 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VikRestaurants\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-05 10:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.7.1; wp-6.7.1\n"
+"X-Domain: vikrestaurants"
+
+#: libraries/language/site.php:1989
+msgctxt "\"tip\" is intended as a gratuity (bonus) for the restaurant"
+msgid "Round tip"
+msgstr ""
+
+#: libraries/language/site.php:1790
+msgctxt "\"tip\" is intended as a gratuity (bonus) for the restaurant"
+msgid "Tip"
+msgstr ""
+
+#: libraries/language/site.php:1984
+msgctxt "\"tip\" is intended as a gratuity (bonus) for the restaurant"
+msgid "Tip for the restaurant"
+msgstr ""
+
+#: libraries/language/site.php:1723
+msgid "%d days ago"
+msgstr ""
+
+#: libraries/language/system.php:862
+msgid "%d days ago."
+msgstr ""
+
+#: libraries/language/site.php:1707
+msgid "%d hours ago"
+msgstr ""
+
+#: libraries/language/system.php:854
+msgid "%d hours ago."
+msgstr ""
+
+#: libraries/language/system.php:385
+msgid "%d items"
+msgstr ""
+
+#: libraries/language/site.php:1568
+msgid "%d items out of %d require a preparation."
+msgstr ""
+
+#: libraries/language/site.php:1691
+msgid "%d min ago"
+msgstr ""
+
+#: libraries/language/system.php:846
+msgid "%d minutes ago."
+msgstr ""
+
+#: libraries/language/site.php:1867
+msgid "%d people"
+msgstr ""
+
+#: libraries/language/site.php:1304
+msgid "%d ratings"
+msgstr ""
+
+#: libraries/language/site.php:1202
+msgid "%d remaining"
+msgstr ""
+
+#: libraries/language/site.php:1739
+msgid "%d weeks ago"
+msgstr ""
+
+#: libraries/language/system.php:870
+msgid "%d weeks ago."
+msgstr ""
+
+#: libraries/language/site.php:1308
+#, php-format
+msgid "%s out of 5 stars"
+msgstr ""
+
+#: libraries/language/site.php:752
+#, php-format
+msgid "%s selected menus"
+msgstr ""
+
+#: libraries/language/site.php:1748
+#, php-format
+msgctxt "%s wildcard will be replaced by a formatted date."
+msgid "on %s"
+msgstr ""
+
+#: libraries/language/site.php:1831
+#, php-format
+msgctxt ""
+"%s wildcard will be replaced by a formatted duration, such as [30 min.] or "
+"[2 hours] or [1 day, 3 hours & 30 min.]"
+msgid "Reservations are accepted starting from %s after the current time."
+msgstr ""
+
+#: libraries/language/site.php:1908
+#, php-format
+msgctxt "%s wildcard will be replaced by the current total amount."
+msgid "Total %s"
+msgstr ""
+
+#: libraries/language/site.php:1227
+#, php-format
+msgctxt ""
+"%s wildcard will be replaced by the delivery cost or \"(FREE)\" label."
+msgid "Delivery %s"
+msgstr ""
+
+#: libraries/language/site.php:1232
+#, php-format
+msgctxt "%s wildcard will be replaced by the pickup charge/discount, if any."
+msgid "Pickup %s"
+msgstr ""
+
+#: libraries/language/site.php:1185
+#, php-format
+msgctxt "%s wildcard will be replaced by the product name."
+msgid ""
+"There are not enough %s available!<br />%d products haven't been added in "
+"your cart. Please, select a different item."
+msgstr ""
+
+#: libraries/language/site.php:1194
+#, php-format
+msgctxt "%s wildcard will be replaced by the restaurant name."
+msgid "%s - Low Stocks Products"
+msgstr ""
+
+#: libraries/language/site.php:1649
+#, php-format
+msgctxt "%s wildcard will be replaced by the restaurant name."
+msgid "%s - New Restaurant Reservation"
+msgstr ""
+
+#: libraries/language/site.php:1674
+#, php-format
+msgctxt "%s wildcard will be replaced by the restaurant name."
+msgid "%s - New Review Submitted"
+msgstr ""
+
+#: libraries/language/site.php:1659
+#, php-format
+msgctxt "%s wildcard will be replaced by the restaurant name."
+msgid "%s - New Take-Away Order"
+msgstr ""
+
+#: libraries/language/site.php:1669
+#, php-format
+msgctxt "%s wildcard will be replaced by the restaurant name."
+msgid "%s - Reservation Cancelled"
+msgstr ""
+
+#: libraries/language/site.php:1683
+#, php-format
+msgctxt "%s wildcard will be replaced by the restaurant name."
+msgid "%s - SMS Failed!"
+msgstr ""
+
+#: libraries/language/site.php:1654
+#, php-format
+msgctxt "%s wildcard will be replaced by the restaurant name."
+msgid "%s - Your Restaurant Reservation"
+msgstr ""
+
+#: libraries/language/site.php:1664
+#, php-format
+msgctxt "%s wildcard will be replaced by the restaurant name."
+msgid "%s - Your Take-Away Order"
+msgstr ""
+
+#: libraries/language/site.php:1979
+#, php-format
+msgctxt "%s wildcard will be replaced by the total amount to pay."
+msgid "Pay Now %s"
+msgstr ""
+
+#: libraries/language/site.php:1780
+msgid "&"
+msgstr ""
+
+#: libraries/language/site.php:1776
+msgid ","
+msgstr ""
+
+#: modules/mod_vikrestaurants_worktimes/languages/handler.php:90
+msgid "- Both -"
+msgstr ""
+
+#: libraries/language/site.php:972
+msgid "- MORE -"
+msgstr ""
+
+#: libraries/language/site.php:1284
+msgid "- please choose -"
+msgstr ""
+
+#: libraries/language/system.php:278
+msgid "- Select Language -"
+msgstr ""
+
+#: libraries/language/system.php:590
+msgid "- Select Menu Item -"
+msgstr ""
+
+#: libraries/language/system.php:286
+#: libraries/mvc/admin/views/overrides/tmpl/default.php:110
+msgid "- Select Status -"
+msgstr ""
+
+#: libraries/language/system.php:282
+msgid "- Select Type -"
+msgstr ""
+
+#: libraries/language/system.php:542
+msgid "- Use Default -"
+msgstr ""
+
+#: libraries/language/site.php:1715
+msgid "1 day ago"
+msgstr ""
+
+#: libraries/language/site.php:1699
+msgid "1 hour ago"
+msgstr ""
+
+#: libraries/language/site.php:1871
+msgid "1 person"
+msgstr ""
+
+#: libraries/language/site.php:1423
+msgid "1 star"
+msgstr ""
+
+#: libraries/language/site.php:1447
+msgid "1 star only"
+msgstr ""
+
+#: libraries/language/site.php:1731
+msgid "1 week ago"
+msgstr ""
+
+#: libraries/language/site.php:1427
+msgid "2 stars"
+msgstr ""
+
+#: libraries/language/site.php:1451
+msgid "2 stars only"
+msgstr ""
+
+#: libraries/language/site.php:1431
+msgid "3 stars"
+msgstr ""
+
+#: libraries/language/site.php:1455
+msgid "3 stars only"
+msgstr ""
+
+#: libraries/language/site.php:1435
+msgid "4 stars"
+msgstr ""
+
+#: libraries/language/site.php:1459
+msgid "4 stars only"
+msgstr ""
+
+#: libraries/language/site.php:1439
+msgid "5 stars"
+msgstr ""
+
+#: libraries/language/site.php:1463
+msgid "5 stars only"
+msgstr ""
+
+#: libraries/mvc/admin/views/overrides/tmpl/default_guide.php:56
+msgid "<b>Admin Pages</b> - all the pages displayed within the back-end;"
+msgstr ""
+
+#: libraries/mvc/admin/views/overrides/tmpl/default_guide.php:78
+msgid "<b>Layouts</b> - snippets of code used to display specific layouts."
+msgstr ""
+
+#: libraries/mvc/admin/views/overrides/tmpl/default_guide.php:45
+msgid "<b>Site Pages</b> - all the pages displayed within the front-end;"
+msgstr ""
+
+#: libraries/mvc/admin/views/overrides/tmpl/default_guide.php:67
+msgid ""
+"<b>Widgets</b> - all the widgets that can be published within the front-end;"
+msgstr ""
+
+#: libraries/html/wpdash/rss/widget.php:117
+msgid ""
+"<b>You haven't opted in the RSS service!</b><br />Click the following button "
+"to start receiving RSS feeds."
+msgstr ""
+
+#: libraries/wizard/sampledata.php:40
+msgid ""
+"<p>It is possible to download here a set of sample data, which will auto-"
+"populate VikRestaurants to be immediately ready to use.</p>"
+msgstr ""
+
+#: libraries/wizard/shortcodes.php:40
+msgid ""
+"<p>The shortcodes are used to display the plugin within the front-end. You "
+"need to create at least a shortcode, which should then be included within an "
+"apposite post/page.</p><p>After creating a shortcode, go back to the list "
+"and click the <i class=\"fas fa-plus-square\"></i> button, under the <b>"
+"Post</b> column, to automatically create a page. The created page will "
+"include the shortcode previously generated.</p>"
+msgstr ""
+
+#: libraries/language/system.php:866
+msgid "a day ago."
+msgstr ""
+
+#: libraries/language/system.php:850
+msgid "a minute ago."
+msgstr ""
+
+#: libraries/language/site.php:728
+msgid "A new reservation for {people} people has been CONFIRMED for {checkin}."
+msgstr ""
+
+#: libraries/language/site.php:1678
+#, php-format
+msgid "A new review has been submitted by %s - %s."
+msgstr ""
+
+#: libraries/language/site.php:732
+msgid "A new take-away order has been CONFIRMED for {checkin}."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A professional tool for managing your restaurant reservations and take-away "
+"orders."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_cart/languages/handler.php:86
+msgid ""
+"A second title displayed inside the widget. If you have the \"Follow Page "
+"Scroll\" parameter enabled, it is recommended to use this parameter instead "
+"of the default block title."
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:146
+msgid "A short text to display at the end of the booking process."
+msgstr ""
+
+#: libraries/language/site.php:2006
+msgctxt ""
+"A string to be appended within the URL when accessing the details of a "
+"reservation. It should contain only letters, numbers and hyphens."
+msgid "order-dishes"
+msgstr ""
+
+#: libraries/language/site.php:1929
+msgctxt ""
+"A string to be appended within the URL when accessing the details of a "
+"reservation. It should contain only letters, numbers and hyphens."
+msgid "reservation"
+msgstr ""
+
+#: libraries/language/site.php:1934
+msgctxt ""
+"A string to be appended within the URL when accessing the details of a take-"
+"away order. It should contain only letters, numbers and hyphens."
+msgid "order"
+msgstr ""
+
+#: libraries/language/system.php:598
+msgid ""
+"A suffix to be applied to the CSS class of the widget. This allows for "
+"individual styling."
+msgstr ""
+
+#: libraries/language/site.php:166
+msgid "A table for %d people has been found!"
+msgstr ""
+
+#: libraries/language/system.php:874
+msgid "a week ago."
+msgstr ""
+
+#. abbreviation for week
+#: libraries/language/site.php:391
+msgctxt "abbreviation for week"
+msgid "Wk"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:190
+msgid "Above the Map"
+msgstr ""
+
+#: libraries/language/system.php:349
+msgid "Access"
+msgstr ""
+
+#: libraries/language/system.php:112
+msgid "Access Administration Interface"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:350
+msgid "Access Permissions"
+msgstr ""
+
+#: libraries/language/system.php:157
+msgid "ACL saved."
+msgstr ""
+
+#: libraries/html/wpdash/rss/widget.php:122
+msgid "Activate RSS Feeds"
+msgstr ""
+
+#: libraries/mvc/admin/views/overrides/tmpl/default.php:111
+msgid "Active"
+msgstr ""
+
+#: libraries/language/site.php:576
+msgid "Add More Items to your Order"
+msgstr ""
+
+#: libraries/language/site.php:1814
+msgid "Add Notes"
+msgstr ""
+
+#: libraries/language/site.php:992
+msgid "ADD TO CART"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:336
+msgid "Additional Widgets"
+msgstr ""
+
+#: libraries/language/site.php:512
+msgid "Address"
+msgstr ""
+
+#: libraries/mvc/admin/views/overrides/tmpl/default.php:96
+msgid "Admin Pages"
+msgstr ""
+
+#: libraries/language/site.php:1966
+msgid ""
+"After closing the bill, it will be no more possible to order further dishes."
+msgstr ""
+
+#: libraries/language/system.php:341
+msgid "Alias"
+msgstr ""
+
+#: libraries/language/site.php:1348
+msgid "All Languages"
+msgstr ""
+
+#: libraries/language/site.php:556
+msgid "All Menus"
+msgstr ""
+
+#: libraries/language/adminsys.php:176
+msgid "All Orders"
+msgstr ""
+
+#: libraries/language/site.php:760
+msgid "All Sections"
+msgstr ""
+
+#: libraries/language/site.php:1443
+msgid "All Stars"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:102
+msgid "All you need to digitalize your food service business"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:395
+msgid ""
+"Allow payments for reservations and orders directly through your website."
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:102
+msgid "Allow users to choose rooms (only when possible)."
+msgstr ""
+
+#: libraries/language/system.php:165
+msgid "Allowed"
+msgstr ""
+
+#: libraries/language/system.php:116
+msgid ""
+"Allows users in the group to access the administration interface for this "
+"plugin."
+msgstr ""
+
+#: libraries/language/system.php:149
+msgid ""
+"Allows users in the group to change the state of any content in this "
+"extension."
+msgstr ""
+
+#: libraries/language/system.php:124
+msgid "Allows users in the group to create any content in this plugin."
+msgstr ""
+
+#: libraries/language/system.php:132
+msgid "Allows users in the group to delete any content in this plugin."
+msgstr ""
+
+#: libraries/language/system.php:141
+msgid "Allows users in the group to edit any content in this plugin."
+msgstr ""
+
+#: libraries/language/system.php:108
+msgid ""
+"Allows users in the group to edit the options and permissions of this plugin."
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:439
+msgid "Already have VikRestaurants PRO?"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default_pro.php:57
+msgid "Already have your key? Enter it here"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:23
+msgid ""
+"Already purchased Vik Restaurants PRO? Upgrade to the PRO version <a "
+"href=\"#upgrade\">here</a>."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:130
+msgid "Always"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:105
+msgid ""
+"An all-in-one solution suitable for any restaurant activity. Turn your "
+"website into a powerful e-commerce system to allow the ordering of take-away "
+"food, whether through self-pick up or delivery in specific and pre-defined "
+"areas of your city."
+msgstr ""
+
+#: libraries/language/system.php:507
+msgid "An error has occurred."
+msgstr ""
+
+#: libraries/language/site.php:1388
+msgid ""
+"An error occurred during the creation of the review. If the problem persists,"
+" please try to contact the administrator."
+msgstr ""
+
+#: libraries/language/system.php:161
+msgid "An error occurred while saving the ACL."
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:86
+msgid "An error occurred! Please try again."
+msgstr ""
+
+#: libraries/language/system.php:858
+msgid "an hour ago."
+msgstr ""
+
+#: libraries/language/system.php:369
+msgid ""
+"An optional comma-separated list of keywords and/or phrases to be used in "
+"the HTML output."
+msgstr ""
+
+#: libraries/language/system.php:361
+msgid ""
+"An optional paragraph to be used as the description of the page in the HTML "
+"output. This will generally display in the results of search engines."
+msgstr ""
+
+#: libraries/language/system.php:606
+msgid "An optional title to be displayed above the block contents."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:86
+msgid "An unknown error occurred."
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:402
+msgid "and much more..."
+msgstr ""
+
+#: libraries/language/system.php:290
+msgid "Any"
+msgstr ""
+
+#: libraries/language/site.php:984
+msgid "Any special instructions? Do you have an allergy?"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:364
+msgid "API Framework"
+msgstr ""
+
+#: libraries/language/site.php:142
+msgid "Apply Coupon"
+msgstr ""
+
+#: libraries/language/system.php:214
+msgid "Archive"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:62
+msgid "Area:"
+msgstr ""
+
+#: libraries/language/site.php:712
+msgid "Arguments not valid! Please fill all required field."
+msgstr ""
+
+#: libraries/language/site.php:924
+msgid "Arrive in"
+msgstr ""
+
+#: libraries/language/site.php:592
+#, php-format
+msgid "AS SOON AS POSSIBLE (%s)"
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:130
+msgid "Auto Redirect"
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:134
+msgid ""
+"Auto redirect customers to the order page when the reservation is completed."
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:118
+msgid "Autoplay"
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:130
+msgid "Autoplay Time Scrolling in milliseconds."
+msgstr ""
+
+#: libraries/language/site.php:896
+msgid "Back"
+msgstr ""
+
+#: libraries/language/site.php:1942
+msgid "Bill Amount"
+msgstr ""
+
+#: libraries/language/system.php:602
+msgid "Block Title"
+msgstr ""
+
+#: modules/mod_vikrestaurants_event/languages/handler.php:54
+msgid "Book Now"
+msgstr ""
+
+#: libraries/language/site.php:1552
+msgid "Booked"
+msgstr ""
+
+#: libraries/html/overrides/bc.php:27
+msgid "Breaking Changes"
+msgstr ""
+
+#: libraries/language/system.php:373
+msgid "Browser Page Title"
+msgstr ""
+
+#: libraries/language/site.php:996
+msgid "Cancel"
+msgstr ""
+
+#: libraries/language/site.php:948
+msgid "Cancel Reservation"
+msgstr ""
+
+#: libraries/language/site.php:744
+msgid "Cancelled"
+msgstr ""
+
+#: libraries/mvc/admin/controllers/override.php:126
+#, php-format
+msgid "Cannot use the file as destination: [%s]"
+msgstr ""
+
+#: libraries/language/site.php:1616
+msgid "Cardholder Name"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_cart/languages/handler.php:82
+msgid "Cart Widget Title"
+msgstr ""
+
+#: libraries/language/site.php:796
+msgid "Change Table"
+msgstr ""
+
+#: libraries/language/site.php:1372
+msgid "Characters Left:"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:66
+msgid "Charge:"
+msgstr ""
+
+#: libraries/language/site.php:1556
+msgid "Check-in"
+msgstr ""
+
+#: libraries/language/site.php:780
+msgid "Choose a Room first!"
+msgstr ""
+
+#: libraries/language/site.php:748
+msgid "Choose at least a menu for all the people in the party"
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:114
+msgid "Choose if you want to enable the pagination buttons."
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:106
+msgid "Choose if you want to show the dotted navigation."
+msgstr ""
+
+#: libraries/language/system.php:646
+msgid "Choose one or more images"
+msgstr ""
+
+#: libraries/mvc/admin/views/overrides/tmpl/default_guide.php:30
+msgid ""
+"Choose the client from the apposite dropdown in order to load the list of "
+"supported overrides. The system supports 4 different types of clients:"
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:82
+msgid "Choose the color for the title and for the price background."
+msgstr ""
+
+#: libraries/language/site.php:588
+msgid "Choose the Date and Time"
+msgstr ""
+
+#: libraries/language/adminsys.php:148
+msgid "Choose the details of the menu to display."
+msgstr ""
+
+#: modules/mod_vikrestaurants_event/languages/handler.php:82
+msgid ""
+"Choose the pre-selected time into the 24H format (e.g. 20:30). Leave this "
+"field blank if you want to allow the users to select a time."
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:58
+msgid "Choose the products to show."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:78
+msgid ""
+"Choose the products to show. Leave empty to display all the published "
+"products."
+msgstr ""
+
+#: modules/mod_vikrestaurants_event/languages/handler.php:66
+msgid ""
+"Choose the special day to show. Only the special days that are marked on the "
+"calendar can be picked through this option."
+msgstr ""
+
+#: libraries/language/site.php:1268
+msgid "Choose the Time"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:178
+msgid ""
+"Choose where you would like to show the delivery search box. You can ignore "
+"this field if the delivery search field is disabled."
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:138
+msgid "Choose whether the products should be displayed with a random ordering."
+msgstr ""
+
+#: libraries/language/site.php:1214
+msgid "choose your address"
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:90
+msgid "Choose your base color for the price label."
+msgstr ""
+
+#: libraries/language/site.php:1280
+msgid "Choose your variation"
+msgstr ""
+
+#: libraries/language/system.php:532
+msgid "Clear Selection"
+msgstr ""
+
+#: libraries/language/system.php:659
+msgid "Clear selection"
+msgstr ""
+
+#: libraries/language/site.php:1512
+#, php-format
+msgid "Click <a href=\"%s\">HERE</a> to check the status of your order."
+msgstr ""
+
+#: libraries/language/site.php:1467
+msgid "click on a star to rate"
+msgstr ""
+
+#: libraries/language/site.php:1822
+msgid ""
+"Click the new table to which the reservation should be assigned. Otherwise "
+"press ESC to cancel this action."
+msgstr ""
+
+#: libraries/language/site.php:892 libraries/language/site.php:960
+msgid "Close"
+msgstr ""
+
+#: libraries/language/site.php:1946
+msgid "Close Bill"
+msgstr ""
+
+#: libraries/language/site.php:1802
+msgid "Close Table"
+msgstr ""
+
+#: libraries/language/site.php:1176
+#: modules/mod_vikrestaurants_worktimes/languages/handler.php:58
+msgid "Closed"
+msgstr ""
+
+#: libraries/language/site.php:1564
+msgid "Code"
+msgstr ""
+
+#: libraries/language/site.php:1368
+msgid "Comment"
+msgstr ""
+
+#: libraries/language/site.php:2050
+msgid "Complete Order"
+msgstr ""
+
+#: libraries/language/site.php:2046
+msgid "Complete Reservation"
+msgstr ""
+
+#: modules/mod_vikrestaurants_event/languages/handler.php:58
+msgid "Configuration"
+msgstr ""
+
+#: libraries/language/adminsys.php:440
+msgid "Configuration View"
+msgstr ""
+
+#: libraries/language/system.php:104
+msgid "Configure ACL & Options"
+msgstr ""
+
+#: libraries/language/site.php:600
+msgid "Confirm Order"
+msgstr ""
+
+#: libraries/language/site.php:700
+msgid "Confirm Password"
+msgstr ""
+
+#: libraries/language/adminsys.php:204 libraries/language/site.php:82
+#: libraries/language/site.php:150
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:74
+msgid "Confirm Reservation"
+msgstr ""
+
+#: libraries/language/adminsys.php:216
+msgid "Confirm Take-Away Order"
+msgstr ""
+
+#: libraries/language/site.php:1060
+msgid "Confirmation Link"
+msgstr ""
+
+#: libraries/language/site.php:306
+msgid "Confirmed"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:94
+msgid "Connection lost! Please, try again."
+msgstr ""
+
+#: libraries/language/site.php:130 libraries/language/site.php:186
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:70
+msgid "Continue"
+msgstr ""
+
+#: libraries/language/system.php:511
+#, php-format
+msgid "Could not save data. Error: %s"
+msgstr ""
+
+#: libraries/language/site.php:294
+msgid "Coupon"
+msgstr ""
+
+#: libraries/language/site.php:1076
+msgid "Coupons"
+msgstr ""
+
+#: libraries/language/adminsys.php:328
+msgid "Coupons View"
+msgstr ""
+
+#: libraries/language/system.php:120
+msgid "Create"
+msgstr ""
+
+#: libraries/language/site.php:656
+msgid "Create New Account"
+msgstr ""
+
+#: libraries/language/site.php:1584
+msgid "Create New Product"
+msgstr ""
+
+#: libraries/language/site.php:1798
+msgid "Create New Reservation"
+msgstr ""
+
+#: libraries/language/system.php:903
+msgid "Create page"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:129
+msgid "Create unlimited menus with unlimited products. No limits applied!"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:241
+msgid "Create your customers database on your website."
+msgstr ""
+
+#: libraries/language/site.php:1612
+msgid "Credit Card Brand"
+msgstr ""
+
+#: libraries/language/site.php:1620
+msgid "Credit Card Number"
+msgstr ""
+
+#: libraries/language/site.php:900
+msgid "Current"
+msgstr ""
+
+#: modules/mod_vikrestaurants_worktimes/languages/handler.php:82
+msgid "Current Day"
+msgstr ""
+
+#: libraries/language/system.php:182
+msgid "Current Setting"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:294
+msgid "Custom Fields"
+msgstr ""
+
+#: libraries/language/adminsys.php:392
+msgid "Custom Fields View"
+msgstr ""
+
+#: libraries/language/site.php:1560
+msgid "Customer"
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:94
+msgid ""
+"Customers can store a reservation every X minutes. It is suggested to set "
+"this value higher than 0 to avoid SPAM attempts."
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:238
+msgid "Customers Management"
+msgstr ""
+
+#: libraries/language/adminsys.php:312
+msgid "Customers View"
+msgstr ""
+
+#: libraries/language/site.php:1632
+msgid "CVC"
+msgstr ""
+
+#: libraries/language/site.php:1068
+msgid "Dashboard"
+msgstr ""
+
+#: libraries/language/adminsys.php:344
+msgid "Dashboard View"
+msgstr ""
+
+#: libraries/language/site.php:90 libraries/language/site.php:262
+msgid "Date"
+msgstr ""
+
+#: libraries/language/site.php:66
+msgid "Date and Time"
+msgstr ""
+
+#: libraries/language/site.php:1092
+msgid "Date Filter"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_deals/languages/handler.php:58
+msgid "Date Filtering"
+msgstr ""
+
+#: libraries/language/site.php:764
+msgid "Date:"
+msgstr ""
+
+#: libraries/language/site.php:1760
+msgid "day"
+msgstr ""
+
+#: libraries/language/site.php:1764
+msgid "days"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:196
+msgid "Deals"
+msgstr ""
+
+#: libraries/html/wizard/shortcodes.php:61
+msgid "Define a shortcode also for the restaurant section."
+msgstr ""
+
+#: libraries/html/wizard/shortcodes.php:65
+msgid "Define a shortcode also for the take-away section."
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:213
+msgid ""
+"Define the exact delivery areas you can cover for delivering the food. No "
+"limits applied!"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:353
+msgid ""
+"Define the permissions for each administrator to allow or deny the access to "
+"certain pages."
+msgstr ""
+
+#: libraries/html/license/lite.php:19
+msgid ""
+"Define the permissions for each user role to allow or deny the access to "
+"certain pages and the actions they can perform."
+msgstr ""
+
+#: libraries/language/system.php:128 libraries/language/system.php:222
+msgid "Delete"
+msgstr ""
+
+#: libraries/language/site.php:484
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:154
+msgid "Delivery"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:210
+msgid "Delivery Areas"
+msgstr ""
+
+#: libraries/language/site.php:1863
+msgid "Delivery Charge"
+msgstr ""
+
+#: libraries/language/site.php:508
+msgid "Delivery Information"
+msgstr ""
+
+#: libraries/language/site.php:520
+msgid "Delivery Notes"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:174
+msgid "Delivery Search Position"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:182
+msgid "Delivery Text"
+msgstr ""
+
+#: libraries/language/site.php:532
+msgid "Delivery Time"
+msgstr ""
+
+#: libraries/language/system.php:169
+msgid "Denied"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:171
+msgid ""
+"Describe your food with all characteristics for allergens and ingredients."
+msgstr ""
+
+#: libraries/html/license/lite.php:34
+msgid ""
+"Design here the layout of your rooms and create/manage the tables with a "
+"smart and intuitive tool."
+msgstr ""
+
+#: libraries/language/site.php:234 libraries/language/site.php:246
+#: libraries/language/site.php:800
+msgid "Details"
+msgstr ""
+
+#: libraries/html/feedback/thickbox.php:90
+#, php-format
+msgid ""
+"Did you read the plugin documentation? You can find it <a href=\"%s\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+
+#: libraries/language/site.php:572
+#: modules/mod_vikrestaurants_takeaway_cart/languages/handler.php:66
+msgid "Discount:"
+msgstr ""
+
+#: libraries/html/overrides/bc.php:123
+msgid "Dismiss"
+msgstr ""
+
+#: libraries/html/rss/config.php:42
+msgid "Display on Dashboard"
+msgstr ""
+
+#: libraries/language/site.php:952
+msgid "Do you want to cancel your reservation?"
+msgstr ""
+
+#: libraries/html/rss/feed.php:21 libraries/html/rss/feed.php:73
+msgid "Don't show again"
+msgstr ""
+
+#: libraries/language/site.php:448
+msgctxt ""
+"DON'T TRANSLATE THIS VALUE! Unless you want to set it true (= use RTL)."
+msgid "false"
+msgstr ""
+
+#: libraries/language/site.php:346
+msgid "Done"
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:102
+msgid "Dotted Navigation"
+msgstr ""
+
+#: libraries/language/system.php:955
+msgid "Downloading the package..."
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:269
+msgid ""
+"Draw the exact map of your rooms and tables by using a smart and intuitive "
+"tool."
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:81
+msgid ""
+"Draw the exact tables of your restaurant with optional rooms for letting "
+"your guests book their preferred table. Show your clients that post-pandemic "
+"safety matters at your place, by letting VikRestaurants apply a safe "
+"distance between the table seats. Thanks to the Smart Dishes Ordering "
+"feature, guests will be able to order their food directly from their table "
+"by using any smartphone device."
+msgstr ""
+
+#: libraries/language/site.php:688
+msgid "E-Mail"
+msgstr ""
+
+#: libraries/language/site.php:318 libraries/language/site.php:500
+msgid "E-mail"
+msgstr ""
+
+#: libraries/language/site.php:864
+msgid "E-mail sent to the customer as well"
+msgstr ""
+
+#. e.g. [DATE] @ [TIME] for [N] people
+#: libraries/language/site.php:1141
+#, php-format
+msgctxt "e.g. [DATE] @ [TIME] for [N] people"
+msgid "%s @ %s for %d people"
+msgstr ""
+
+#. Author of the plugin
+msgid "E4J s.r.l."
+msgstr ""
+
+#: libraries/language/site.php:1576
+msgid "Edit Bill"
+msgstr ""
+
+#: libraries/language/site.php:1084
+msgid "Edit Coupon"
+msgstr ""
+
+#: libraries/language/site.php:1903
+msgid "Edit Dish"
+msgstr ""
+
+#: libraries/language/site.php:844
+msgid "Edit Quick Reservation"
+msgstr ""
+
+#: libraries/language/system.php:145
+msgid "Edit State"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_cart/languages/handler.php:70
+msgid "Empty"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:367
+msgid ""
+"Enable a complete API endpoint for your website to allow the integration "
+"with third-party apps."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_deals/languages/handler.php:74
+msgid "Enable Arrow Navigation"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_deals/languages/handler.php:78
+msgid "Enable arrow navigation to scroll the deals."
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:122
+msgid "Enable automatic horizontal scrolling."
+msgstr ""
+
+#: modules/mod_vikrestaurants_event/languages/handler.php:70
+msgid "Enable Calendar"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:166
+msgid "Enable Delivery Search"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_deals/languages/handler.php:66
+msgid "Enable Dotted Navigation"
+msgstr ""
+
+#: libraries/html/rss/config.php:31
+msgid "Enable RSS Service"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_deals/languages/handler.php:70
+msgid "Enable the dotted navigation to scroll the deals."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:170
+msgid ""
+"Enable this field to allow the customers to check the availability of their "
+"address for the delivery."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:162
+msgid "Enable this field to show the delivery areas inside the map."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:62
+msgid ""
+"Enable this option if you want to allow the customers to filter the products "
+"by menu."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:118
+msgid ""
+"Enable this option if you want to display the attributes icon of the item."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:102
+msgid "Enable this option if you want to display the image of the item."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:110
+msgid "Enable this option if you want to display the parent menu of the item."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:94
+msgid "Enable this option if you want to display the price of the item."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:126
+msgid ""
+"Enable this option if you want to display the rating (stars) of the item."
+msgstr ""
+
+#: libraries/language/adminsys.php:92
+msgid ""
+"Enable this option in case you want to allow the users to filter the menus "
+"by date."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:70
+msgid ""
+"Enable this option to allow the customers to display all the menus. When "
+"this option is disabled, the first available menu will be auto-selected."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_cart/languages/handler.php:110
+msgid ""
+"Enable this option to use a sticky version of the widget for mobile devices. "
+"The widget will be stuck on the bottom side of the screen only for the take-"
+"away menus list page."
+msgstr ""
+
+#: modules/mod_vikrestaurants_event/languages/handler.php:74
+msgid ""
+"Enable this setting if you want to allow your customers to select the date. "
+"Otherwise the first available date of the special day will be taken."
+msgstr ""
+
+#: libraries/language/site.php:138
+msgid "Enter here your Coupon Code"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:441
+msgid "Enter your licence key here"
+msgstr ""
+
+#: libraries/language/site.php:2106
+msgid "Enter your PIN here"
+msgstr ""
+
+#: libraries/language/system.php:47
+msgid "Error"
+msgstr ""
+
+#: libraries/language/site.php:756
+msgid ""
+"Error while choosing the menus! Please select a valid menu for each person."
+msgstr ""
+
+#: libraries/language/site.php:832
+msgid "Error! You are not able to view this resource."
+msgstr ""
+
+#: libraries/language/site.php:1004
+msgid "Error, Connection Lost! Please try again."
+msgstr ""
+
+#: libraries/language/site.php:206
+msgid "Error, Invalid Coupon"
+msgstr ""
+
+#: libraries/language/site.php:214
+msgid "Error, Invalid Payment Selected"
+msgstr ""
+
+#: libraries/language/site.php:154
+msgid "Error, please choose a table first"
+msgstr ""
+
+#: libraries/language/site.php:134
+msgid "Error, please fill in all the required fields"
+msgstr ""
+
+#: libraries/language/site.php:1000
+msgid "Error, please fill in all the required toppings."
+msgstr ""
+
+#: libraries/language/site.php:456
+msgid "Error, reservation not found."
+msgstr ""
+
+#: libraries/language/site.php:210
+msgid "Error, the table selected is no longer available"
+msgstr ""
+
+#: libraries/language/site.php:218
+msgid "Error, Unable to Save your Reservation"
+msgstr ""
+
+#: modules/mod_vikrestaurants_event/languages/handler.php:78
+msgid "Event Time"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:41
+msgid "Everything you need to manage Restaurant Reservations"
+msgstr ""
+
+#: libraries/language/site.php:872
+msgid "expires in %d min."
+msgstr ""
+
+#: libraries/language/site.php:868
+msgid "expires in %d sec."
+msgstr ""
+
+#: libraries/system/feedback.php:66 libraries/html/feedback/thickbox.php:155
+msgid "Feedback"
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:62
+msgid "Fill in your Details"
+msgstr ""
+
+#: libraries/language/site.php:1344
+msgid "Filter by:"
+msgstr ""
+
+#: libraries/language/adminsys.php:124
+msgid "Filter menu"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:58
+msgid "Filter Menus"
+msgstr ""
+
+#: libraries/language/site.php:776
+msgid "Find"
+msgstr ""
+
+#: libraries/language/site.php:110
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:54
+msgid "Find a Table"
+msgstr ""
+
+#: libraries/language/site.php:2166
+msgid "First course"
+msgstr ""
+
+#: libraries/language/site.php:310 libraries/language/site.php:680
+msgid "First Name"
+msgstr ""
+
+#: modules/mod_vikrestaurants_worktimes/languages/handler.php:94
+msgid "First View"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_cart/languages/handler.php:90
+msgid "Follow Page Scroll"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:168
+msgid "Food Attributes"
+msgstr ""
+
+#: libraries/language/site.php:1036
+msgid "Forgot your password?"
+msgstr ""
+
+#: libraries/language/site.php:1040
+msgid "Forgot your username?"
+msgstr ""
+
+#: libraries/language/site.php:1104
+#: modules/mod_vikrestaurants_takeaway_cart/languages/handler.php:54
+msgid "Free"
+msgstr ""
+
+#: libraries/language/site.php:584
+msgid "Free!"
+msgstr ""
+
+#: libraries/html/overrides/config.php:24
+msgid ""
+"From this section it is possible to override the pages and the layouts of "
+"the plugin. Click the button below to open the file manager and start "
+"editing the pages."
+msgstr ""
+
+#: libraries/language/site.php:496 libraries/language/site.php:1240
+msgid "Full Name"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:311
+msgid "Generate and update the invoices for any bill or order."
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default_pro.php:49
+msgid "Get or renew your license"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default_pro.php:47
+msgid "Get or renew your License Key from VikWP.com"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:426
+msgid "Get VikRestaurants PRO and start now."
+msgstr ""
+
+#: libraries/html/overrides/config.php:36
+msgid "Go ahead only if you are able to deal with PHP and HTML code."
+msgstr ""
+
+#: libraries/language/site.php:1248
+msgid "Grand Total"
+msgstr ""
+
+#: modules/mod_vikrestaurants_worktimes/languages/handler.php:62
+msgid "Group"
+msgstr ""
+
+#: libraries/language/system.php:321 libraries/language/site.php:932
+msgid "Guest"
+msgstr ""
+
+#: libraries/html/feedback/thickbox.php:45
+msgid ""
+"Have you tried to install <b>Enable jQuery Migrate Helper</b> plugin by "
+"WordPress Team? WordPress 5.5 update might have brought a few javascript "
+"issues, which should be solved by installing the mentioned plugin."
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:114
+msgid "Head Sub-Title"
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:106
+msgid "Head Title"
+msgstr ""
+
+#: libraries/html/license/lite.php:24
+msgid ""
+"Here you can manage all of your customers information, their delivery "
+"locations and send specific SMS notifications."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:210
+msgid "Here's a list containing all the existing locations:"
+msgstr ""
+
+#: libraries/language/site.php:824 libraries/language/site.php:1012
+#, php-format
+msgid "Hi %s!"
+msgstr ""
+
+#: libraries/language/site.php:828
+#, php-format
+msgid "Hi %s! You are not able to view this resource."
+msgstr ""
+
+#: libraries/language/site.php:2001
+#, php-format
+msgid ""
+"Hi %s,\n"
+"\n"
+"Welcome at %s! You received this e-mail because you seated at the table and "
+"you are waiting to order.\n"
+"\n"
+"Since we are no more using paper menus, you can visit the following link to "
+"start ordering your dishes:\n"
+"%s\n"
+"\n"
+"When you are done with ordering, don\\'t forget to click the \"Order Now\" "
+"button to notify the kitchen. Instead, you can click the \"Close Bill\" "
+"button to inform the kitchen that you are not going to order anything else. "
+"At this point, you can also decide to pay online, without having to interact "
+"with an operator."
+msgstr ""
+
+#: libraries/language/site.php:1993
+#, php-format
+msgid ""
+"Hi %s, you can visit the following link to start ordering your dishes:\n"
+"%s"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_deals/languages/handler.php:54
+msgid "Hide"
+msgstr ""
+
+#: libraries/language/site.php:238
+msgid "Hide Details"
+msgstr ""
+
+#: libraries/mvc/admin/views/overrides/tmpl/default_editor.php:277
+msgid "Hide original file"
+msgstr ""
+
+#: libraries/html/rss/optin/modal.php:115
+msgid "Hit the <b>Save</b> button to confirm your choice and close this popup."
+msgstr ""
+
+#: libraries/language/site.php:1752
+msgid "hour"
+msgstr ""
+
+#: libraries/language/site.php:1756
+msgid "hours"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://vikwp.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://vikwp.com/plugin/vikrestaurants"
+msgstr ""
+
+#: libraries/html/feedback/thickbox.php:89
+msgid "I couldn't understand how to get it work"
+msgstr ""
+
+#: libraries/language/site.php:1843
+msgid "I hereby authorize the use of my personal data"
+msgstr ""
+
+#: libraries/language/site.php:1839
+#, php-format
+msgid ""
+"I hereby authorize the use of my personal data (<a href=\"%s\" "
+"onclick=\"%s\">see Privacy Policy</a>)"
+msgstr ""
+
+#: libraries/html/feedback/thickbox.php:95
+msgid "I no longer need the plugin"
+msgstr ""
+
+#: libraries/html/rss/optin/modal.php:108
+msgid "I want to opt in to VikWP RSS service"
+msgstr ""
+
+#: libraries/html/feedback/thickbox.php:100
+msgid "I'm just debugging an issue"
+msgstr ""
+
+#: libraries/html/feedback/thickbox.php:105
+msgid "I'm not able to deactivate this plugin!"
+msgstr ""
+
+#: libraries/html/feedback/thickbox.php:156
+msgid "If you have a moment, please let us know why you are deactivating."
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:138
+msgid "Ignore the fields below if you are using auto redirect."
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:122
+msgid "Image URL"
+msgstr ""
+
+#: libraries/language/site.php:944
+msgid ""
+"Impossible to cancel your reservation. You can do this action at least %d "
+"day(s) before the check-in."
+msgstr ""
+
+#: libraries/language/site.php:2142
+msgid ""
+"Impossible to cancel your reservation. You can do this action at least %d "
+"days before the checkin."
+msgstr ""
+
+#: libraries/language/site.php:2150
+msgid ""
+"Impossible to cancel your reservation. You can do this action at least %d "
+"hours before the checkin."
+msgstr ""
+
+#: libraries/language/site.php:2146
+msgid ""
+"Impossible to cancel your reservation. You can do this action at least 1 day "
+"before the checkin."
+msgstr ""
+
+#: libraries/language/site.php:2154
+msgid ""
+"Impossible to cancel your reservation. You can do this action at least 1 "
+"hour before the checkin."
+msgstr ""
+
+#: libraries/language/site.php:940
+msgid ""
+"Impossible to cancel your reservation. You have not the requirements to do "
+"this action."
+msgstr ""
+
+#: libraries/language/site.php:852
+msgid "Impossible to create the reservation!"
+msgstr ""
+
+#: libraries/language/site.php:1189
+msgid ""
+"Impossible to insert the selected quantity! You cannot have more than %d "
+"products in your cart."
+msgstr ""
+
+#: libraries/language/site.php:716
+msgid "Impossible to register a new User! Try to contact the administrator."
+msgstr ""
+
+#: libraries/language/site.php:1727
+msgid "in %d days"
+msgstr ""
+
+#: libraries/language/site.php:1711
+msgid "in %d hours"
+msgstr ""
+
+#: libraries/language/site.php:1695
+msgid "in %d min"
+msgstr ""
+
+#: libraries/language/site.php:1743
+msgid "in %d weeks"
+msgstr ""
+
+#: libraries/language/site.php:1719
+msgid "in 1 day"
+msgstr ""
+
+#: libraries/language/site.php:1703
+msgid "in 1 hour"
+msgstr ""
+
+#: libraries/language/site.php:1735
+msgid "in 1 week"
+msgstr ""
+
+#: libraries/html/feedback/thickbox.php:213
+msgid ""
+"In addition to the specified information, the feedback will contain your IP "
+"address (for security reasons), your PHP version, your WordPress version and "
+"the plugin version."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_cart/languages/handler.php:102
+msgid ""
+"In case the module is hidden behind a sticky element (such as the theme "
+"header), you can try to increase this value until the module is properly "
+"displayed."
+msgstr ""
+
+#: libraries/html/feedback/thickbox.php:106
+#, php-format
+msgid ""
+"In case you are experiencing some issues with the deactivation of this "
+"plugin, try to relaunch the page by appending <code>&feedback=0</code> to "
+"the URL. Otherwise just click <a href=\"%s\">HERE</a>."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:118
+msgid "In pixel (px) or percentage (%)."
+msgstr ""
+
+#: libraries/mvc/admin/views/overrides/tmpl/default.php:112
+msgid "Inactive"
+msgstr ""
+
+#: libraries/language/site.php:1158
+msgctxt "indicates the progressive step of the booking process"
+msgid "1"
+msgstr ""
+
+#: libraries/language/site.php:1163
+msgctxt "indicates the progressive step of the booking process"
+msgid "2"
+msgstr ""
+
+#: libraries/language/site.php:1168
+msgctxt "indicates the progressive step of the booking process"
+msgid "3"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:186
+msgid ""
+"Insert here a text for the delivery, which will be displayed below the map."
+msgstr ""
+
+#: libraries/language/site.php:988
+msgid ""
+"Insert here some instructions for your food (e.g. intolerances, sauce on the "
+"side...):"
+msgstr ""
+
+#: libraries/language/site.php:1810
+msgid "Insert here some notes about this order status"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:98
+msgid "Invalid address! Please try again."
+msgstr ""
+
+#: libraries/language/site.php:1794
+msgid "Invalid address, please try again."
+msgstr ""
+
+#: libraries/language/site.php:326
+msgid "Invalid Credit Card Information Received, please try again"
+msgstr ""
+
+#: libraries/language/site.php:46 libraries/language/site.php:604
+msgid "Invalid Date"
+msgstr ""
+
+#: libraries/language/system.php:939
+#, php-format
+msgid "Invalid response: %s"
+msgstr ""
+
+#: libraries/language/site.php:50 libraries/language/site.php:608
+msgid "Invalid Time"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:308
+msgid "Invoices"
+msgstr ""
+
+#: libraries/language/adminsys.php:336
+msgid "Invoices View"
+msgstr ""
+
+#: libraries/language/site.php:2082
+msgid ""
+"It is no more possible to reject the order!<br />Please change the status "
+"from the administrator."
+msgstr ""
+
+#: libraries/language/site.php:1272
+msgid "It is not possible to order when the restaurant is closed"
+msgstr ""
+
+#: libraries/language/site.php:2118
+msgid ""
+"It looks like there are multiple reservations assigned to this table at the "
+"current time. Please contact the staff of the restaurant."
+msgstr ""
+
+#: libraries/language/site.php:1958
+msgid ""
+"It seems that some dishes have not been transmitted to the kitchen. Would "
+"you like to proceed anyway?"
+msgstr ""
+
+#: libraries/language/site.php:1883
+msgid ""
+"It will be possible to order the dishes only at the moment of the check-in."
+msgstr ""
+
+#: libraries/language/site.php:1879
+msgid ""
+"It will be possible to order the dishes only once the reservation will be "
+"confirmed."
+msgstr ""
+
+#: libraries/language/site.php:1292
+msgid "Item correctly added in your cart!"
+msgstr ""
+
+#: libraries/language/site.php:544
+msgid "Item Not Found!"
+msgstr ""
+
+#: libraries/language/system.php:515
+msgid "Item saved."
+msgstr ""
+
+#: libraries/language/site.php:536
+msgid "Items Ordered"
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:94
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:82
+msgid "Items per Row"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:325
+msgid ""
+"Keep the status of all reservations and orders up to date: <em>preparing</em>"
+", <em>delivered</em>, <em>bill paid</em> and so on."
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:255
+msgid ""
+"Keep track of all reservations and bills. All the management functions you "
+"need."
+msgstr ""
+
+#: libraries/language/site.php:1924
+msgid "Kitchen"
+msgstr ""
+
+#: libraries/language/site.php:314 libraries/language/site.php:684
+msgid "Last Name"
+msgstr ""
+
+#: libraries/language/system.php:582
+msgid "Layout"
+msgstr ""
+
+#: libraries/mvc/admin/views/overrides/tmpl/default.php:98
+msgid "Layouts"
+msgstr ""
+
+#: libraries/language/site.php:1328
+msgid "Leave Review"
+msgstr ""
+
+#: libraries/language/adminsys.php:128
+msgid "Leave this field blank to show all the menus."
+msgstr ""
+
+#: libraries/language/site.php:1516
+msgid "Leave this field empty if you don't have a reason to specify."
+msgstr ""
+
+#: libraries/language/site.php:920
+msgid "Leaves in"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:194
+msgid "Left"
+msgstr ""
+
+#: libraries/language/site.php:632
+msgid "Less"
+msgstr ""
+
+#: libraries/language/system.php:842
+msgid "Less than a minute ago."
+msgstr ""
+
+#: libraries/html/license/lite.php:39
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:283
+msgid ""
+"Let your operators manage the reservations and orders from a smart private "
+"area in the front-end."
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default_pro.php:41
+#, php-format
+msgid "License key valid until <span class=\"word-keep-all\">%s</span>"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:78
+msgid "Location information is unavailable."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:150
+msgid "Locations"
+msgstr ""
+
+#: libraries/language/site.php:672
+msgid "Log in"
+msgstr ""
+
+#: libraries/language/site.php:652 libraries/language/site.php:660
+msgid "Login"
+msgstr ""
+
+#: libraries/language/site.php:820
+msgid "Logout"
+msgstr ""
+
+#: libraries/language/site.php:86
+msgid "Make a Reservation"
+msgstr ""
+
+#: libraries/html/license/lite.php:29
+msgid ""
+"Manage all the invoices generated for the various restaurant bills or take-"
+"away orders."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:206
+msgid "Manage Locations"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:185
+msgid ""
+"Manage the stocks of your products and food to update the remaining quantity "
+"or to add refills."
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:143
+msgid "Manage your orders and apply modifications on the food requested."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:134
+msgid "Map Center Latitude"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:142
+msgid "Map Center Longitude"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:114
+msgid "Map Height"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:106
+msgid "Map Settings"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:122
+msgid "Map Style"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:110
+msgid "Map Width"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:126
+msgid "Map Zoom Level"
+msgstr ""
+
+#: libraries/language/system.php:578
+#, php-format
+msgid "Maximum upload size: <strong>%s</strong>"
+msgstr ""
+
+#: libraries/language/adminsys.php:416
+msgid "Media Manager View"
+msgstr ""
+
+#: libraries/language/adminsys.php:144
+msgid "Menu"
+msgstr ""
+
+#: libraries/language/adminsys.php:136
+msgid "Menu Details"
+msgstr ""
+
+#: libraries/language/widget.php:59
+msgid "Menu Item"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:126
+msgid "Menus & Products"
+msgstr ""
+
+#: libraries/language/adminsys.php:80
+msgid "Menus List"
+msgstr ""
+
+#: libraries/language/system.php:357
+msgid "Meta Description"
+msgstr ""
+
+#: libraries/language/system.php:365
+msgid "Meta Keywords"
+msgstr ""
+
+#: libraries/language/site.php:146
+msgid "Method of Payment"
+msgstr ""
+
+#: libraries/language/site.php:880
+msgid "min."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:70
+msgid "Min. Cost:"
+msgstr ""
+
+#: libraries/language/site.php:1376
+msgid "Minimum Characters:"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_cart/languages/handler.php:58
+msgid "Minimum Order:"
+msgstr ""
+
+#: libraries/language/site.php:2074
+#, php-format
+msgid "Missing required field \"%s\"."
+msgstr ""
+
+#: libraries/language/site.php:1384
+msgid "Missing Required Fields! Please, fill in all the requird (*) fields."
+msgstr ""
+
+#: libraries/language/site.php:1628
+msgid "MM / YY"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_cart/languages/handler.php:106
+msgid "Mobile Sticky"
+msgstr ""
+
+#: libraries/language/site.php:628
+msgid "More"
+msgstr ""
+
+#: libraries/language/site.php:1588
+msgid "Name"
+msgstr ""
+
+#: libraries/language/site.php:1252
+msgid "Net"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:138
+msgid "Never"
+msgstr ""
+
+#: libraries/language/site.php:1108
+msgid "New"
+msgstr ""
+
+#: libraries/language/site.php:1080
+msgid "New Coupon"
+msgstr ""
+
+#: libraries/language/site.php:840
+msgid "New Quick Reservation"
+msgstr ""
+
+#: libraries/language/system.php:178
+msgid "New Setting"
+msgstr ""
+
+#: libraries/language/site.php:354
+msgid "Next"
+msgstr ""
+
+#: libraries/mvc/admin/controllers/override.php:101
+msgid "No code received"
+msgstr ""
+
+#: libraries/language/site.php:1324
+msgid "No comment left."
+msgstr ""
+
+#: libraries/language/site.php:460
+msgid "No Menus found for the selected date & time."
+msgstr ""
+
+#: libraries/language/site.php:1806
+msgid "No order status"
+msgstr ""
+
+#: libraries/language/site.php:2114
+msgid ""
+"No reservations found for the selected table. Please contact the staff of "
+"the restaurant."
+msgstr ""
+
+#: libraries/language/site.php:1300
+msgid "No review for this item."
+msgstr ""
+
+#: libraries/language/site.php:804
+msgid "No room found."
+msgstr ""
+
+#: libraries/language/site.php:1508
+msgid "No status has been assigned yet to your order."
+msgstr ""
+
+#: libraries/language/site.php:114
+msgid "No table is available at the selected time"
+msgstr ""
+
+#: libraries/language/system.php:943
+msgid "No valid and active license key found."
+msgstr ""
+
+#: libraries/html/feedback/thickbox.php:34
+msgid "No, thanks"
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:82
+msgid ""
+"None of the tables is available at the selected date and time. Please check "
+"the available times below:"
+msgstr ""
+
+#: libraries/language/site.php:194
+msgid "Not Available"
+msgstr ""
+
+#: libraries/language/site.php:1600
+msgid "Notes"
+msgstr ""
+
+#: libraries/html/wizard/sampledata.php:100
+msgid ""
+"Notice that the installation of the sample data might restore the database "
+"to the factory settings. So, if you already created some records, you might "
+"lose them."
+msgstr ""
+
+#: libraries/language/site.php:936 libraries/language/site.php:1687
+msgid "Now"
+msgstr ""
+
+#: libraries/language/site.php:58
+msgid "Number of People selected is invalid"
+msgstr ""
+
+#: libraries/language/site.php:198
+msgid "Occupancy of Shared Tables"
+msgstr ""
+
+#: libraries/language/site.php:956
+msgid "Ok"
+msgstr ""
+
+#: libraries/language/site.php:126
+#, php-format
+msgid "Only Shared Tables are available at %s"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:134
+msgid "Only when available"
+msgstr ""
+
+#: modules/mod_vikrestaurants_worktimes/languages/handler.php:54
+msgid "Open"
+msgstr ""
+
+#: libraries/html/overrides/config.php:47
+msgid "Open Overrides Manager"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:280
+msgid "Operators"
+msgstr ""
+
+#: libraries/language/adminsys.php:164
+msgid "Operators Area"
+msgstr ""
+
+#: libraries/language/adminsys.php:264
+msgid "Operators View"
+msgstr ""
+
+#: libraries/language/system.php:377
+msgid ""
+"Optional text for the \"Browser page title\" element to be used when the "
+"post is viewed with a non-post menu item. If blank, the post's title is used "
+"instead."
+msgstr ""
+
+#: libraries/language/system.php:548
+msgid "Options"
+msgstr ""
+
+#: libraries/language/adminsys.php:68
+msgid "Order"
+msgstr ""
+
+#: libraries/language/site.php:524
+#, php-format
+msgid "Order at %s"
+msgstr ""
+
+#: libraries/language/site.php:1260
+msgid "Order Details"
+msgstr ""
+
+#: libraries/language/site.php:1875
+msgid "Order Dishes"
+msgstr ""
+
+#: libraries/language/site.php:254
+msgid "Order Key"
+msgstr ""
+
+#: libraries/language/site.php:274
+msgid "Order Link"
+msgstr ""
+
+#: libraries/language/site.php:560
+#: modules/mod_vikrestaurants_takeaway_cart/languages/handler.php:74
+msgid "Order Now"
+msgstr ""
+
+#: libraries/language/site.php:250
+msgid "Order Number"
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:66
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:142
+msgid "Order Summary"
+msgstr ""
+
+#: libraries/language/site.php:464
+msgid "Order Type"
+msgstr ""
+
+#: libraries/language/site.php:1548
+msgid "Orders"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:140
+msgid "Orders & Cart Management"
+msgstr ""
+
+#: libraries/language/site.php:1580 libraries/html/feedback/thickbox.php:111
+msgid "Other"
+msgstr ""
+
+#: libraries/language/site.php:2034
+msgid "Other Tax"
+msgstr ""
+
+#: libraries/html/rss/optin/modal.php:85
+msgid ""
+"Our company does not collect any personal data here. The syndication URL "
+"never includes sensitive data that may be linked back to you."
+msgstr ""
+
+#: libraries/language/site.php:1172
+msgid "Overview"
+msgstr ""
+
+#: libraries/system/builder.php:435 libraries/system/builder.php:438
+msgid "Page Overrides"
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:110
+msgid "Pagination"
+msgstr ""
+
+#: libraries/language/system.php:915
+msgid "Parent Shortcode"
+msgstr ""
+
+#: libraries/language/site.php:696 libraries/language/site.php:2058
+msgid "Password"
+msgstr ""
+
+#: libraries/language/site.php:668
+msgid "Password:"
+msgstr ""
+
+#: libraries/language/site.php:1950
+msgid "Pay Now"
+msgstr ""
+
+#: libraries/language/site.php:286
+msgid "Payment"
+msgstr ""
+
+#: libraries/language/site.php:1256 libraries/language/site.php:2042
+msgid "Payment Charge"
+msgstr ""
+
+#: libraries/language/site.php:1264
+msgid "Payment Details"
+msgstr ""
+
+#: libraries/language/site.php:1970
+msgid ""
+"Payment done! The validation may take a few minutes. Please, try to refresh "
+"the page."
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:392
+msgid "Payment Gateways"
+msgstr ""
+
+#: libraries/language/site.php:342
+msgid "Payment Note"
+msgstr ""
+
+#: libraries/language/site.php:2038
+msgid "Payment Tax"
+msgstr ""
+
+#: libraries/language/adminsys.php:400
+msgid "Payments View"
+msgstr ""
+
+#: libraries/language/site.php:302
+msgid "Pending"
+msgstr ""
+
+#: libraries/language/site.php:98 libraries/language/site.php:266
+#: libraries/language/site.php:916
+msgid "People"
+msgstr ""
+
+#: libraries/language/site.php:772
+msgid "People:"
+msgstr ""
+
+#: libraries/language/site.php:836
+msgid "Permission Error! You are not authorized to perform this action."
+msgstr ""
+
+#: libraries/language/system.php:261
+msgid "Permissions"
+msgstr ""
+
+#: libraries/language/site.php:1540
+msgid "Person"
+msgstr ""
+
+#: libraries/language/site.php:270
+msgid "Personal Details"
+msgstr ""
+
+#: libraries/language/site.php:322 libraries/language/site.php:504
+msgid "Phone Number"
+msgstr ""
+
+#: libraries/language/site.php:174
+msgid "Pick a Room from the list"
+msgstr ""
+
+#: libraries/language/system.php:655
+msgid "Pick or upload an image"
+msgstr ""
+
+#: libraries/language/site.php:488
+msgid "Pickup"
+msgstr ""
+
+#: libraries/language/site.php:2098
+msgid "PIN Code"
+msgstr ""
+
+#: libraries/language/site.php:2066
+msgid ""
+"Please confirm the order by clicking on the apposite link received at the "
+"email address specified during the booking process."
+msgstr ""
+
+#: libraries/language/site.php:2062
+msgid ""
+"Please confirm the reservation by clicking on the apposite link received at "
+"the email address specified during the booking process."
+msgstr ""
+
+#: libraries/lite/helper.php:361 libraries/lite/helper.php:399
+#: libraries/lite/helper.php:437 libraries/lite/helper.php:459
+#: libraries/lite/helper.php:523 libraries/lite/helper.php:545
+#: libraries/lite/helper.php:609 libraries/lite/helper.php:645
+msgid ""
+"Please consider to purchase the <b>PRO</b> version to remove this "
+"restriction."
+msgstr ""
+
+#: libraries/language/system.php:499
+msgid "Please first make a selection from the list."
+msgstr ""
+
+#: libraries/html/overrides/bc.php:93
+msgid ""
+"Please review the unpublished overrides if you wish to keep the changes you "
+"made. You can tick the box of the reviewed files to remove them from the "
+"list."
+msgstr ""
+
+#: libraries/language/site.php:122
+msgid "Please select a different date"
+msgstr ""
+
+#: libraries/language/site.php:118
+msgid "Please select a different time:"
+msgstr ""
+
+#: libraries/language/system.php:951
+msgid "Please wait"
+msgstr ""
+
+#: libraries/language/site.php:1920
+msgid "Please wait for a manual approval of your reservation."
+msgstr ""
+
+#: libraries/html/feedback/thickbox.php:83
+msgid "Please, could you explain what happened?"
+msgstr ""
+
+#: libraries/html/feedback/thickbox.php:193
+msgid "Please, could you write some extra notes?"
+msgstr ""
+
+#: libraries/language/system.php:935
+msgid "Please, enter a valid license key."
+msgstr ""
+
+#: libraries/language/site.php:816
+msgid "Please, fill in all the required (*) fields."
+msgstr ""
+
+#: libraries/language/site.php:1400
+msgid "Please, login to leave a review"
+msgstr ""
+
+#: libraries/html/feedback/thickbox.php:114
+msgid "Please, provide us some information"
+msgstr ""
+
+#: libraries/language/site.php:1404
+msgid "Please, purchase this item before to leave a review"
+msgstr ""
+
+#: libraries/language/site.php:1222
+msgid "Please, specify also the route and the street number of your address."
+msgstr ""
+
+#: libraries/language/site.php:1524
+msgid "Please, write at least 32 characters."
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:40
+msgid "Powerful Take-Away e-commerce system"
+msgstr ""
+
+#: libraries/language/site.php:350
+msgid "Prev"
+msgstr ""
+
+#: libraries/language/system.php:610
+msgid ""
+"Preview not yet available. Try to adjust the configuration of the widget."
+msgstr ""
+
+#: libraries/language/site.php:1592
+msgid "Price"
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:86
+msgid "Price Text Color"
+msgstr ""
+
+#: libraries/language/adminsys.php:152
+msgid "Printable Menu"
+msgstr ""
+
+#: libraries/language/adminsys.php:104
+msgid "Printable Menus"
+msgstr ""
+
+#: libraries/language/system.php:931
+msgid "PRO Version"
+msgstr ""
+
+#: libraries/language/adminsys.php:196
+msgid "Product"
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:54
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:74
+msgid "Products"
+msgstr ""
+
+#: libraries/language/adminsys.php:280
+msgid "Products View"
+msgstr ""
+
+#: libraries/language/system.php:569
+msgid "Publishing"
+msgstr ""
+
+#: libraries/language/site.php:1088
+msgid "Purchaser Name"
+msgstr ""
+
+#: libraries/language/site.php:980
+msgid "Quantity"
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:134
+msgid "Randomize"
+msgstr ""
+
+#: libraries/language/site.php:1316
+#, php-format
+msgid "Rated by %s %s."
+msgstr ""
+
+#: libraries/language/site.php:1364
+msgid "Rating"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:411
+msgid "Ready to renew your business?"
+msgstr ""
+
+#: libraries/language/site.php:1409
+msgctxt "referred to the sorting mode of the reviews"
+msgid "Most recent"
+msgstr ""
+
+#: libraries/language/site.php:1414
+msgctxt "referred to the sorting mode of the reviews"
+msgid "Oldest"
+msgstr ""
+
+#: libraries/language/site.php:1419
+msgctxt "referred to the sorting mode of the reviews"
+msgid "Top rated"
+msgstr ""
+
+#: libraries/language/site.php:704
+msgid "Register"
+msgstr ""
+
+#: libraries/language/system.php:325
+msgid "Registered"
+msgstr ""
+
+#: libraries/language/site.php:676
+msgid "Registration"
+msgstr ""
+
+#: libraries/language/site.php:2090
+msgid "Rejection Link"
+msgstr ""
+
+#: libraries/language/site.php:298
+msgid "Removed"
+msgstr ""
+
+#: libraries/language/site.php:528
+#, php-format
+msgid "Reservation at %s"
+msgstr ""
+
+#: libraries/language/site.php:856
+msgid "Reservation Code"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:322
+msgid "Reservation Codes"
+msgstr ""
+
+#: libraries/language/adminsys.php:432
+msgid "Reservation Codes View"
+msgstr ""
+
+#: libraries/language/site.php:290
+msgid "Reservation Cost"
+msgstr ""
+
+#: libraries/language/adminsys.php:228
+msgid "Reservation Details"
+msgstr ""
+
+#: libraries/language/site.php:1532
+msgid "Reservation for %d people"
+msgstr ""
+
+#: libraries/language/adminsys.php:56
+msgid "Reservation Form"
+msgstr ""
+
+#: libraries/language/site.php:1072
+msgid "Reservations"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:252
+msgid "Reservations &amp; Bills"
+msgstr ""
+
+#: libraries/language/site.php:1859
+#, php-format
+msgid "Reservations are accepted within %s since the current date."
+msgstr ""
+
+#: libraries/language/site.php:848
+#, php-format
+msgid "Reservations for Table: %s"
+msgstr ""
+
+#: libraries/language/adminsys.php:304
+msgid "Reservations View"
+msgstr ""
+
+#: libraries/language/site.php:792
+msgid "Reserve"
+msgstr ""
+
+#: libraries/language/site.php:468
+#: modules/mod_vikrestaurants_worktimes/languages/handler.php:66
+msgid "Restaurant"
+msgstr ""
+
+#: libraries/language/site.php:1236
+msgid "Restaurant Disabled!"
+msgstr ""
+
+#: libraries/language/adminsys.php:288
+msgid "Restaurant Menus View"
+msgstr ""
+
+#: libraries/language/site.php:1636
+msgid "Restaurant Offline CC Payment Received"
+msgstr ""
+
+#: libraries/language/site.php:1028
+msgid "Restaurant Reservations"
+msgstr ""
+
+#: libraries/language/site.php:1296
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:224
+msgid "Reviews"
+msgstr ""
+
+#: libraries/language/adminsys.php:320
+msgid "Reviews View"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:198
+msgid "Right"
+msgstr ""
+
+#: libraries/language/site.php:102 libraries/language/site.php:278
+msgid "Room"
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:98
+msgid "Rooms Choosable"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:266
+msgid "Rooms Design Tool"
+msgstr ""
+
+#: libraries/language/adminsys.php:240
+msgid "Rooms View"
+msgstr ""
+
+#: libraries/language/site.php:884
+msgid "Save"
+msgstr ""
+
+#: libraries/language/system.php:238 libraries/language/site.php:888
+msgid "Save & Close"
+msgstr ""
+
+#: libraries/language/system.php:242
+msgid "Save & New"
+msgstr ""
+
+#: libraries/language/system.php:246
+msgid "Save as Copy"
+msgstr ""
+
+#: libraries/language/system.php:503
+#, php-format
+msgid "Save failed with the following error: %s"
+msgstr ""
+
+#: libraries/language/site.php:1818
+msgid "Save Notes"
+msgstr ""
+
+#: libraries/language/site.php:230
+msgid "Search"
+msgstr ""
+
+#: libraries/language/site.php:2094
+msgid "Search by customer/order"
+msgstr ""
+
+#: modules/mod_vikrestaurants_search/widget.php:45
+msgid "Search Table"
+msgstr ""
+
+#: libraries/language/system.php:299
+msgid "Search Tools"
+msgstr ""
+
+#: libraries/language/site.php:876
+msgid "sec."
+msgstr ""
+
+#: libraries/language/site.php:2170
+msgid "Second course"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:54
+msgid "See All"
+msgstr ""
+
+#: libraries/language/site.php:1336
+msgid "See all (%d) reviews"
+msgstr ""
+
+#: libraries/language/site.php:74
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:58
+msgid "Select a Room"
+msgstr ""
+
+#: libraries/language/site.php:190
+msgid "Select a Shared Table"
+msgstr ""
+
+#: libraries/language/site.php:70
+msgid "Select a Table"
+msgstr ""
+
+#: libraries/language/site.php:808
+msgid "Select a time to see the available tables"
+msgstr ""
+
+#: libraries/language/adminsys.php:100
+msgid ""
+"Select all the menus you want to display. Leave this field empty to display "
+"all the available menus."
+msgstr ""
+
+#: libraries/language/system.php:519
+msgid "Select an option"
+msgstr ""
+
+#: libraries/language/adminsys.php:96
+msgid "Select Menus"
+msgstr ""
+
+#: libraries/html/wizard/sampledata.php:39
+msgid ""
+"Select one of the available sample data and proceed with the installation."
+msgstr ""
+
+#: libraries/language/site.php:182
+msgid "Select Room"
+msgstr ""
+
+#: libraries/language/site.php:162
+msgid "Select Room:"
+msgstr ""
+
+#: libraries/language/site.php:178
+msgid "Select Table"
+msgstr ""
+
+#: libraries/language/widget.php:67
+msgid "Select the menu item that will be used after submitting the form."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:102
+msgid "Select the menu item that will be used to validate the address."
+msgstr ""
+
+#: libraries/language/site.php:170
+msgid "Select the table you wish to get"
+msgstr ""
+
+#: libraries/language/site.php:1145
+#, php-format
+msgid "Selected Room: %s"
+msgstr ""
+
+#: libraries/language/site.php:860
+msgid "Send Notification E-mail"
+msgstr ""
+
+#: libraries/language/site.php:480 libraries/language/site.php:580
+msgid "Service"
+msgstr ""
+
+#: libraries/language/site.php:2158
+msgid "Service Order"
+msgstr ""
+
+#: libraries/language/site.php:568
+msgid "Service:"
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:90
+msgid "Session Lifetime (min.)"
+msgstr ""
+
+#: libraries/html/license/lite.php:49
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:199
+msgid ""
+"Set up custom offers to highlight particular dates and to target different "
+"guests."
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:381
+msgid "Set up custom SMS gateways to send messages to your guests."
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:297
+msgid ""
+"Set up the information you would like to collect from each client and for "
+"each reservation."
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:70
+msgid ""
+"Set up unlimited Menus with unlimited Products for your take-away orders. "
+"Allow your clients to choose the Delivery Service or Self Pickup by adding "
+"an optional fee. Let your clients customize their food with a thin or large "
+"crust for their pizza, the toppings they want, or by composing a Poke with "
+"their preferred ingredients."
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:157
+msgid ""
+"Set up unlimited Toppings for your food. Let your clients build their custom "
+"pizza or dish."
+msgstr ""
+
+#: libraries/language/system.php:270
+msgid "Shortcodes"
+msgstr ""
+
+#: libraries/language/system.php:312
+msgid "Show All Access"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:66
+msgid "Show All Menus"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:114
+msgid "Show Attributes"
+msgstr ""
+
+#: libraries/mvc/admin/views/overrides/tmpl/default_editor.php:284
+msgid "Show both in columns"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:158
+msgid "Show Delivery Areas"
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:66
+msgid "Show Description"
+msgstr ""
+
+#: libraries/mvc/admin/views/overrides/tmpl/default_editor.php:255
+msgid "Show files tree"
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:70
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:98
+msgid "Show Image"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:106
+msgid "Show Menu"
+msgstr ""
+
+#: libraries/mvc/admin/views/overrides/tmpl/default_editor.php:291
+msgid "Show one over the other"
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:74
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:90
+msgid "Show Price"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:122
+msgid "Show Rating"
+msgstr ""
+
+#: libraries/language/adminsys.php:88
+msgid "Show Search Bar"
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:62
+msgid "Show Title"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_deals/languages/handler.php:62
+msgid "Shows only the deals published for the selected date."
+msgstr ""
+
+#: libraries/language/adminsys.php:208
+msgid "Shows the confirmation page for the table bookings (useful for SEO)."
+msgstr ""
+
+#: libraries/language/adminsys.php:220
+msgid "Shows the confirmation page for the take-away orders (useful for SEO)."
+msgstr ""
+
+#: libraries/language/adminsys.php:192
+msgid "Shows the details page of a single Take-Away item."
+msgstr ""
+
+#: libraries/language/adminsys.php:60
+msgid "Shows the form to start reserving a table of the restaurant."
+msgstr ""
+
+#: libraries/language/adminsys.php:84
+msgid "Shows the form to view the available menus of the restaurant."
+msgstr ""
+
+#: libraries/language/adminsys.php:120
+msgid "Shows the list of the take-away menus to order your products."
+msgstr ""
+
+#: libraries/language/adminsys.php:168
+msgid ""
+"Shows the management area in the front-end for the operators of the "
+"restaurant."
+msgstr ""
+
+#: libraries/language/adminsys.php:180
+msgid ""
+"Shows the page containing all the orders and reservations made by a logged "
+"in user."
+msgstr ""
+
+#: libraries/language/adminsys.php:140
+msgid "Shows the sections and the products of the selected menu."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:202
+msgid ""
+"Since the 1.2.4 version of VikRestaurants it is possible to manage the "
+"locations from the configuration of the component."
+msgstr ""
+
+#: libraries/mvc/admin/views/overrides/tmpl/default.php:95
+msgid "Site Pages"
+msgstr ""
+
+#: libraries/language/system.php:565
+msgid "Slide"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_deals/languages/handler.php:82
+msgid "Slide Duration Time"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:78
+msgid "Smart Restaurant Reservations"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:378
+msgid "SMS Gateways"
+msgstr ""
+
+#: libraries/language/site.php:596
+msgid ""
+"Sorry, but we cannot accept takeaway reservations any longer. Please select "
+"a different date."
+msgstr ""
+
+#: libraries/language/site.php:1340
+msgid "Sort by:"
+msgstr ""
+
+#: libraries/language/system.php:329
+msgid "Special"
+msgstr ""
+
+#: modules/mod_vikrestaurants_event/languages/handler.php:62
+msgid "Special Day"
+msgstr ""
+
+#: libraries/language/adminsys.php:296
+msgid "Special Days View"
+msgstr ""
+
+#: libraries/html/license/lite.php:44
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:227
+msgid "Start collecting your own customers reviews for your food and service."
+msgstr ""
+
+#: libraries/language/site.php:1997
+msgid "Start Ordering Dishes"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:33
+msgid "Start using your own Take-Away and Restaurant Reservations system"
+msgstr ""
+
+#: libraries/language/site.php:258 libraries/language/site.php:928
+msgid "Status"
+msgstr ""
+
+#: libraries/language/adminsys.php:408
+msgid "Status Codes View"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:182
+msgid "Stocks Management System"
+msgstr ""
+
+#: libraries/language/site.php:1544
+msgid "Submit"
+msgstr ""
+
+#: libraries/language/site.php:1332
+msgid "Submit Review"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:39
+msgid "Suitable for any kind of food-service business"
+msgstr ""
+
+#: libraries/language/system.php:333
+msgid "Super User"
+msgstr ""
+
+#: libraries/language/site.php:106 libraries/language/site.php:282
+#: libraries/language/site.php:912
+msgid "Table"
+msgstr ""
+
+#: libraries/language/site.php:784
+msgid "Table changed successfully!"
+msgstr ""
+
+#: libraries/language/site.php:78
+msgid "Tables Availability"
+msgstr ""
+
+#: libraries/language/site.php:1064
+msgid "Tables Map"
+msgstr ""
+
+#: libraries/language/adminsys.php:256
+msgid "Tables Maps View"
+msgstr ""
+
+#: libraries/language/adminsys.php:248
+msgid "Tables View"
+msgstr ""
+
+#: libraries/language/site.php:472 libraries/language/site.php:1572
+#: modules/mod_vikrestaurants_worktimes/languages/handler.php:70
+msgid "Take-Away"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_cart/widget.php:45
+msgid "Take-away Cart"
+msgstr ""
+
+#: libraries/language/adminsys.php:368
+msgid "Take-Away Deals View"
+msgstr ""
+
+#: libraries/language/adminsys.php:376
+msgid "Take-Away Delivery Areas View"
+msgstr ""
+
+#: libraries/language/adminsys.php:188
+msgid "Take-Away Item Details"
+msgstr ""
+
+#: libraries/language/adminsys.php:116
+msgid "Take-Away Menus List"
+msgstr ""
+
+#: libraries/language/adminsys.php:352
+msgid "Take-Away Menus View"
+msgstr ""
+
+#: libraries/language/site.php:1640
+msgid "Take-Away Offline CC Payment Received"
+msgstr ""
+
+#: libraries/language/site.php:1536
+#, php-format
+msgid "Take-Away Order for %s"
+msgstr ""
+
+#: libraries/language/site.php:1032
+msgid "Take-Away Orders"
+msgstr ""
+
+#: libraries/language/adminsys.php:384
+msgid "Take-Away Orders View"
+msgstr ""
+
+#: libraries/language/adminsys.php:360
+msgid "Take-Away Toppings View"
+msgstr ""
+
+#: libraries/language/site.php:552
+msgid "Takeaway Disabled!"
+msgstr ""
+
+#: libraries/language/site.php:640 libraries/language/site.php:644
+msgid "Taxes"
+msgstr ""
+
+#: libraries/language/adminsys.php:424
+msgid "Taxes View"
+msgstr ""
+
+#: libraries/language/system.php:71
+msgid "Template view not found."
+msgstr ""
+
+#: libraries/language/site.php:1392
+msgid "Thank you for your review!"
+msgstr ""
+
+#: libraries/language/site.php:338
+msgid "Thank you! Credit Card Information Successfully Received."
+msgstr ""
+
+#: libraries/language/site.php:334
+msgid "Thank you! The payment was verified successfully"
+msgstr ""
+
+#: libraries/system/install.php:632
+msgid "Thanks for activating our plugin!"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default_pro.php:26
+msgid "Thanks for using the Pro version"
+msgstr ""
+
+#: libraries/language/site.php:1396
+msgid "Thanks, your review has been submitted for approval."
+msgstr ""
+
+#: libraries/language/system.php:353
+msgid "The access level group that is allowed to view this item."
+msgstr ""
+
+#: libraries/language/system.php:345
+msgid ""
+"The Alias will be used in the SEF URL. Leave this blank and the system will "
+"fill in a default value from the title."
+msgstr ""
+
+#: modules/mod_vikrestaurants_worktimes/languages/handler.php:78
+msgid "The available view modes."
+msgstr ""
+
+#: libraries/language/system.php:418
+msgctxt "The back-end section of WP."
+msgid "Admin"
+msgstr ""
+
+#: libraries/language/site.php:1887
+msgid ""
+"The bill has been closed. It is no more possible to order further dishes."
+msgstr ""
+
+#: libraries/language/site.php:1520
+msgid "The cancellation reason is mandatory (min 32 characters)."
+msgstr ""
+
+#: libraries/language/system.php:87
+msgid "The CAPTCHA was incorrect."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:138
+msgid ""
+"The center latitude must be in radians. If you leave this field empty, the "
+"map will be centered automatically."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:146
+msgid ""
+"The center longitude must be in radians. If you leave this field empty, the "
+"map will be centered automatically."
+msgstr ""
+
+#: libraries/language/site.php:1855
+msgid ""
+"The containment measures of COVID-19 require that a certain distance be "
+"maintained between people who are not part of the same family. You should "
+"flag this option if you constantly live with the other members of the group. "
+"If not, the system will search for larger tables so that the distance can be "
+"maintained."
+msgstr ""
+
+#: libraries/language/system.php:59
+#, php-format
+msgid "The controller [%s] classname does not exist."
+msgstr ""
+
+#: libraries/language/system.php:55
+msgid "The controller does not exist."
+msgstr ""
+
+#: libraries/language/system.php:63
+msgid "The controller must be an instance of JController."
+msgstr ""
+
+#: libraries/language/site.php:202
+msgid "The Coupon code has been applied!"
+msgstr ""
+
+#: libraries/language/site.php:1644
+#, php-format
+msgid ""
+"The credit card details for the reservation ID %s were partially stored in "
+"the database and you can see them from the link below.<br /><br />Remaining "
+"Card Number: %s<br /><br />Order Details link:<br />%s"
+msgstr ""
+
+#: libraries/language/site.php:1891
+msgid ""
+"The customer has just cancelled this order.<br />Please, log in to see the "
+"order details."
+msgstr ""
+
+#: libraries/language/site.php:1895
+msgid ""
+"The customer has just cancelled this reservation.<br />Please, log in to see "
+"the reservation details."
+msgstr ""
+
+#: libraries/language/site.php:1528
+#, php-format
+msgid "The customer said &#171; %s &#187;"
+msgstr ""
+
+#: libraries/language/site.php:1100
+msgid "The date is in the past"
+msgstr ""
+
+#: libraries/language/site.php:62
+msgid "The Date selected is in the past"
+msgstr ""
+
+#: modules/mod_vikrestaurants_worktimes/languages/handler.php:98
+msgid "The default view displayed once the page is loaded."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_deals/languages/handler.php:86
+msgid ""
+"The duration in milliseconds of each frame (deal). If you don't want to auto "
+"slide the deals, just specify an unreachable value."
+msgstr ""
+
+#: libraries/language/site.php:2122
+msgid "The entered PIN is incorrect. Please, try again."
+msgstr ""
+
+#: libraries/html/overrides/bc.php:34
+msgid ""
+"The following overrides have been automatically unpublished in order to "
+"avoid possible errors due to deprecated code."
+msgstr ""
+
+#: libraries/html/feedback/thickbox.php:65
+msgid "The FREE version is too limited"
+msgstr ""
+
+#: libraries/language/system.php:423
+msgctxt "The front-end section of WP."
+msgid "Site"
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:126
+msgid "The image logo URL to show in the header of the widget."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:86
+msgid "The maximum number of items to display on each row."
+msgstr ""
+
+#: libraries/language/site.php:1851
+msgid "The members of the group belong to the same family"
+msgstr ""
+
+#: libraries/language/site.php:564
+#, php-format
+msgid "The minimum total order is %s"
+msgstr ""
+
+#: libraries/language/system.php:79
+msgid ""
+"The most recent request was denied because it had an invalid security token. "
+"Please refresh the page and try again."
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:98
+msgid "The number of items to display simultaneously."
+msgstr ""
+
+#: libraries/language/site.php:1124
+msgid "The operator changed table from a restaurant reservation."
+msgstr ""
+
+#: libraries/language/site.php:1120
+msgid "The operator confirmed a restaurant reservation."
+msgstr ""
+
+#: libraries/language/site.php:1136
+msgid "The operator confirmed a take-away order."
+msgstr ""
+
+#: libraries/language/site.php:1112
+msgid "The operator created a restaurant reservation."
+msgstr ""
+
+#: libraries/language/site.php:1128
+msgid "The operator created a take-away order."
+msgstr ""
+
+#: libraries/language/site.php:1116
+msgid "The operator updated a restaurant reservation."
+msgstr ""
+
+#: libraries/language/site.php:1132
+msgid "The operator updated a take-away order."
+msgstr ""
+
+#: libraries/language/site.php:2078
+msgid "The order has been already REJECTED."
+msgstr ""
+
+#: libraries/language/site.php:2086
+msgid "The order has been rejected successfully."
+msgstr ""
+
+#: libraries/language/site.php:1048
+msgid "The order is already CONFIRMED."
+msgstr ""
+
+#: libraries/language/site.php:1056
+msgid "The order is now CONFIRMED."
+msgstr ""
+
+#: libraries/language/site.php:1052
+msgid ""
+"The order was expired!<br/>Please change the status from the administrator."
+msgstr ""
+
+#: libraries/language/site.php:1044
+msgid "The order was not found!"
+msgstr ""
+
+#: libraries/language/site.php:2014
+msgid "The ordered dishes have been transmitted to the kitchen."
+msgstr ""
+
+#: libraries/language/site.php:1916
+msgid ""
+"The ordered dishes have been transmitted to the kitchen. It is still "
+"possible to update/delete them as long as they are not under preparation."
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:108
+msgid ""
+"The other powerful section of VikRestaurants will let you manage all of your "
+"Table Reservations, from the positioning of the tables to the food ordering "
+"at the table. Two complete solutions in just one plugin. Turn on either one "
+"or both features depending on your type of business."
+msgstr ""
+
+#: libraries/language/site.php:330
+msgid "The payment was not verified, please try again"
+msgstr ""
+
+#: libraries/html/feedback/thickbox.php:81
+msgid "The plugin broke my site"
+msgstr ""
+
+#: libraries/html/feedback/thickbox.php:57
+msgid "The plugin didn't work as expected"
+msgstr ""
+
+#: libraries/html/feedback/thickbox.php:44
+msgid "The plugin is facing strange behaviors on WP 5.5"
+msgstr ""
+
+#: libraries/html/feedback/thickbox.php:51
+msgid "The plugin is not working"
+msgstr ""
+
+#: libraries/html/feedback/thickbox.php:75
+msgid "The plugin suddenly stopped working"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:339
+msgid ""
+"The PRO version comes with several and useful new widgets for your website."
+msgstr ""
+
+#: libraries/language/site.php:708
+msgid "The registration feature is disabled!"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:82
+msgid "The request to get user location timed out."
+msgstr ""
+
+#: libraries/language/site.php:54 libraries/language/site.php:612
+msgid "The Restaurant is closed in the selected date and time"
+msgstr ""
+
+#: libraries/language/site.php:1500
+msgid "The review is already APPROVED."
+msgstr ""
+
+#: libraries/language/site.php:1504
+msgid "The review is now CONFIRMED."
+msgstr ""
+
+#: libraries/language/site.php:1496
+msgid "The review was not found!"
+msgstr ""
+
+#: libraries/language/system.php:83
+msgid ""
+"The security token did not match. The request was aborted to prevent any "
+"security breach. Please try again."
+msgstr ""
+
+#: libraries/language/site.php:1912
+msgid ""
+"The selected dish is under preparation. It is no more possible to update it "
+"or delete it. Please, try to contact an operator if you wish to apply some "
+"changes."
+msgstr ""
+
+#: libraries/language/site.php:1210
+msgid "The selected service is not allowed!"
+msgstr ""
+
+#: libraries/language/site.php:1826
+msgid "The selected table is already occupied."
+msgstr ""
+
+#: libraries/language/site.php:636
+msgid "The selected Zip Code is not valid!"
+msgstr ""
+
+#: libraries/language/system.php:911
+msgid ""
+"The shortcode was successfully added to a new page of your website. Visit "
+"the new page in the front-end to see its content (if any)."
+msgstr ""
+
+#: libraries/language/site.php:1206
+msgid "The specified address is not available for the delivery."
+msgstr ""
+
+#: libraries/language/site.php:1835
+msgid "The specified data won't be stored within our system."
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:118
+msgid "The sub-title in the header of the widget."
+msgstr ""
+
+#: libraries/language/site.php:1198
+msgid "The system has found low stocks of some products."
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:110
+msgid "The title in the header of the widget."
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default_pro.php:29
+msgid ""
+"The true VikRestaurants is Pro. Make sure to keep your license key active to "
+"be able to install future updates."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:130
+msgid ""
+"The zoom level must be an integer between 0 (min zoom) and 18 (max zoom). If "
+"you leave this field empty, the zoom will be calculated automatically."
+msgstr ""
+
+#: libraries/mvc/admin/views/overrides/tmpl/default_guide.php:91
+msgid ""
+"Then select the file you wish to edit and click <b>Save</b> to create the "
+"override. The green icon of a file means that an override is up and running."
+msgstr ""
+
+#: libraries/html/wizard/sampledata.php:105
+msgid ""
+"There are no sample data available for your version. Please try to update "
+"the plugin to the latest version."
+msgstr ""
+
+#: libraries/language/site.php:2174
+msgid "Third course"
+msgstr ""
+
+#: libraries/language/site.php:1008
+#, php-format
+msgid "This area requires a %s surcharge for delivery."
+msgstr ""
+
+#: libraries/language/site.php:1218
+#, php-format
+msgid "This area requires an order total net equals or higher than %s"
+msgstr ""
+
+#: libraries/language/site.php:976
+msgid "This menu is not available for the selected day"
+msgstr ""
+
+#: libraries/html/rss/optin/modal.php:63
+msgid ""
+"This RSS service mainly covers these macro sections: <b>news</b>, <b>tips</b>"
+" and <b>offers</b>. You might receive news about VikRestaurants or anything "
+"else that interests the WordPress world, such as the jQuery conflict that "
+"broke millions of websites with WP 5.5. Sometimes you could receive "
+"notifications about tips or features that you didn't even think they could "
+"exist. During the most important festivities you might receive coupon codes "
+"to renew you license at a discount price. We guarantee you that this service "
+"won't result in an annoying advertising system."
+msgstr ""
+
+#: libraries/language/adminsys.php:444
+msgid "This rule allows the users to access to the configuration view."
+msgstr ""
+
+#: libraries/language/adminsys.php:332
+msgid "This rule allows the users to access to the coupons view."
+msgstr ""
+
+#: libraries/language/adminsys.php:396
+msgid "This rule allows the users to access to the custom fields view."
+msgstr ""
+
+#: libraries/language/adminsys.php:316
+msgid "This rule allows the users to access to the customers view."
+msgstr ""
+
+#: libraries/language/adminsys.php:348
+msgid "This rule allows the users to access to the Dashboard view."
+msgstr ""
+
+#: libraries/language/adminsys.php:340
+msgid "This rule allows the users to access to the invoices view."
+msgstr ""
+
+#: libraries/language/adminsys.php:420
+msgid "This rule allows the users to access to the media manager view."
+msgstr ""
+
+#: libraries/language/adminsys.php:268
+msgid "This rule allows the users to access to the operators view."
+msgstr ""
+
+#: libraries/language/adminsys.php:404
+msgid "This rule allows the users to access to the payments view."
+msgstr ""
+
+#: libraries/language/adminsys.php:284
+msgid "This rule allows the users to access to the products view."
+msgstr ""
+
+#: libraries/language/adminsys.php:436
+msgid "This rule allows the users to access to the reservation codes view."
+msgstr ""
+
+#: libraries/language/adminsys.php:308
+msgid "This rule allows the users to access to the reservations view."
+msgstr ""
+
+#: libraries/language/adminsys.php:292
+msgid "This rule allows the users to access to the restaurant menus view."
+msgstr ""
+
+#: libraries/language/adminsys.php:324
+msgid "This rule allows the users to access to the reviews view."
+msgstr ""
+
+#: libraries/language/adminsys.php:244
+msgid "This rule allows the users to access to the rooms view."
+msgstr ""
+
+#: libraries/language/adminsys.php:300
+msgid "This rule allows the users to access to the special days view."
+msgstr ""
+
+#: libraries/language/adminsys.php:412
+msgid "This rule allows the users to access to the status codes view."
+msgstr ""
+
+#: libraries/language/adminsys.php:260
+msgid "This rule allows the users to access to the tables maps view."
+msgstr ""
+
+#: libraries/language/adminsys.php:252
+msgid "This rule allows the users to access to the tables view."
+msgstr ""
+
+#: libraries/language/adminsys.php:372
+msgid "This rule allows the users to access to the take-away deals view."
+msgstr ""
+
+#: libraries/language/adminsys.php:380
+msgid ""
+"This rule allows the users to access to the take-away delivery areas view."
+msgstr ""
+
+#: libraries/language/adminsys.php:356
+msgid "This rule allows the users to access to the take-away menus view."
+msgstr ""
+
+#: libraries/language/adminsys.php:388
+msgid "This rule allows the users to access to the take-away orders view."
+msgstr ""
+
+#: libraries/language/adminsys.php:364
+msgid "This rule allows the users to access to the take-away toppings view."
+msgstr ""
+
+#: libraries/language/adminsys.php:428
+msgid "This rule allows the users to access to the taxes view."
+msgstr ""
+
+#: libraries/language/adminsys.php:276
+msgid "This rule allows the users to access to the working shifts view."
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:50
+msgid ""
+"This widget allows you to choose which products you want to point out in "
+"your website."
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:50
+msgid ""
+"This widget can be used to quickly schedule reservations through a minified "
+"form."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:50
+msgid "This widget displays a grid of some take-away products."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_deals/languages/handler.php:50
+msgid "This widget displays a list of active deals for your products."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:50
+msgid "This widget displays a map containing the supported delivery areas."
+msgstr ""
+
+#: modules/mod_vikrestaurants_event/languages/handler.php:50
+msgid "This widget displays a quick booking form of a special day as event."
+msgstr ""
+
+#: modules/mod_vikrestaurants_worktimes/languages/handler.php:50
+msgid "This widget displays the active weekly working times."
+msgstr ""
+
+#: modules/mod_vikrestaurants_search/languages/handler.php:50
+msgid "This widget displays the form to schedule new table reservations."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_cart/languages/handler.php:50
+msgid "This widget displays the shopping cart of the user."
+msgstr ""
+
+#: libraries/language/site.php:94 libraries/language/site.php:908
+msgid "Time"
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:126
+msgid "Time Scrolling"
+msgstr ""
+
+#: libraries/language/site.php:768
+msgid "Time:"
+msgstr ""
+
+#: libraries/language/site.php:1360
+msgid "Title"
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:78
+msgid "Title Color"
+msgstr ""
+
+#: libraries/language/site.php:1472
+msgctxt "title for 1 star review"
+msgid "I hate it"
+msgstr ""
+
+#: libraries/language/site.php:1477
+msgctxt "title for 2 star review"
+msgid "I don't like it"
+msgstr ""
+
+#: libraries/language/site.php:1482
+msgctxt "title for 3 star review"
+msgid "It's ok"
+msgstr ""
+
+#: libraries/language/site.php:1487
+msgctxt "title for 4 star review"
+msgid "I like it"
+msgstr ""
+
+#: libraries/language/site.php:1492
+msgctxt "title for 5 star review"
+msgid "I love it"
+msgstr ""
+
+#: libraries/language/site.php:358 libraries/language/site.php:1096
+msgid "Today"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_cart/languages/handler.php:98
+msgid "Top Padding"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:154
+msgid "Toppings"
+msgstr ""
+
+#: libraries/language/site.php:1608
+msgid "Total"
+msgstr ""
+
+#: libraries/language/site.php:1974
+#, php-format
+msgid "Total %s"
+msgstr ""
+
+#: libraries/language/site.php:648
+msgid "Total Net Price"
+msgstr ""
+
+#: libraries/language/site.php:540
+msgid "Total Order"
+msgstr ""
+
+#: libraries/language/site.php:624
+msgid "Total Paid"
+msgstr ""
+
+#: libraries/language/site.php:476
+msgid "Total To Pay"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_cart/languages/handler.php:62
+msgid "Total:"
+msgstr ""
+
+#: libraries/language/site.php:2070
+msgid "Tracking Status"
+msgstr ""
+
+#: libraries/language/system.php:441
+msgid "Trashed"
+msgstr ""
+
+#: libraries/language/adminsys.php:108
+msgid ""
+"Turn on this option whether the customers should be able to print the menus."
+msgstr ""
+
+#: libraries/language/adminsys.php:156
+msgid ""
+"Turn on this option whether the customers should be able to print this menu."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:58
+msgid "type here your address"
+msgstr ""
+
+#: libraries/language/site.php:1604
+msgid "Type something to search products"
+msgstr ""
+
+#: libraries/language/site.php:788
+msgid "Unable to change table"
+msgstr ""
+
+#: libraries/language/system.php:218
+msgid "Unarchive"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:67
+msgid "Unlimited Take Away Products with Pickup or Delivery"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:116
+msgid "Unlock over 50 must-have features"
+msgstr ""
+
+#: libraries/language/system.php:210
+msgid "Unpublish"
+msgstr ""
+
+#: libraries/language/system.php:437
+msgid "Unpublished"
+msgstr ""
+
+#: libraries/language/site.php:904
+msgid "Upcoming"
+msgstr ""
+
+#: libraries/language/system.php:959
+msgid "Update completed, click here to continue"
+msgstr ""
+
+#: libraries/language/system.php:963
+msgid "Update failed, click here to continue"
+msgstr ""
+
+#: libraries/language/system.php:927
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:44
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:429
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: libraries/language/system.php:586
+msgid "Use a layout from the supplied widget or overrides in the themes."
+msgstr ""
+
+#: libraries/language/system.php:523
+msgid "Use Global"
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:150
+msgid "Use ReCAPTCHA"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:74
+msgid "User denied the request for Geolocation."
+msgstr ""
+
+#: libraries/language/site.php:1244
+msgid "User Details"
+msgstr ""
+
+#: libraries/language/site.php:692 libraries/language/site.php:2054
+msgid "Username"
+msgstr ""
+
+#: libraries/language/site.php:664
+msgid "Username:"
+msgstr ""
+
+#: libraries/language/site.php:1624
+msgid "Valid Through"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:445
+msgid "Validate and Install"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default_pro.php:63
+msgid "Validate and Update"
+msgstr ""
+
+#: libraries/language/site.php:1596
+msgid "Variation"
+msgstr ""
+
+#: libraries/language/site.php:1320
+msgid "Verified purchase"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:54
+msgid "Verify the availability of your address"
+msgstr ""
+
+#: libraries/language/site.php:1024
+msgid "View All Orders"
+msgstr ""
+
+#: libraries/language/site.php:1288
+msgid "View Details"
+msgstr ""
+
+#: libraries/language/site.php:620
+msgid "View Menu"
+msgstr ""
+
+#: modules/mod_vikrestaurants_worktimes/languages/handler.php:74
+msgid "View Mode"
+msgstr ""
+
+#: libraries/language/system.php:899
+msgid "View trashed post"
+msgstr ""
+
+#: libraries/language/adminsys.php:232
+msgid "View used to access the details of a restaurant reservation."
+msgstr ""
+
+#: libraries/language/adminsys.php:72
+msgid "View used to access the details of a take-away order."
+msgstr ""
+
+#. Name of the plugin
+#: modules/mod_vikrestaurants_takeaway_cart/widget.php:44
+#: modules/mod_vikrestaurants_worktimes/widget.php:44
+#: modules/mod_vikrestaurants_search/widget.php:44
+#: libraries/language/adminsys.php:48
+msgid "VikRestaurants"
+msgstr ""
+
+#: libraries/language/system.php:100
+msgid "VikRestaurants - Access Control List"
+msgstr ""
+
+#: libraries/language/system.php:947
+msgid "VikRestaurants - Downloading Pro version"
+msgstr ""
+
+#: libraries/language/system.php:890
+msgid "VikRestaurants - Edit Shortcode"
+msgstr ""
+
+#: libraries/language/system.php:886
+msgid "VikRestaurants - New Shortcode"
+msgstr ""
+
+#: libraries/mvc/admin/views/overrides/view.html.php:191
+msgid "VikRestaurants - Page Overrides"
+msgstr ""
+
+#: libraries/dashboard/rss.php:45
+msgid "VikRestaurants - RSS Feeds"
+msgstr ""
+
+#: libraries/html/rss/optin.php:19
+msgid "VikRestaurants - RSS Opt in"
+msgstr ""
+
+#: libraries/language/system.php:882
+msgid "VikRestaurants - Shortcodes"
+msgstr ""
+
+#: libraries/language/system.php:923
+msgid "VikRestaurants - Upgrade to Pro"
+msgstr ""
+
+#: modules/mod_vikrestaurants_event/languages/handler.php:46
+msgid "VikRestaurants Event"
+msgstr ""
+
+#: modules/mod_vikrestaurants_items/languages/handler.php:46
+msgid "VikRestaurants Items"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:36
+msgid ""
+"VikRestaurants PRO: the most advanced Take-Away and Restaurant Reservations "
+"Manager for WordPress"
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:46
+msgid "VikRestaurants Quick Reservation"
+msgstr ""
+
+#: modules/mod_vikrestaurants_search/languages/handler.php:46
+msgid "VikRestaurants Search"
+msgstr ""
+
+#: libraries/html/rss/optin/modal.php:41
+msgid ""
+"VikRestaurants supports the possibility of subscribing to a RSS channel and "
+"we are wondering whether you might be interested in using this service."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_cart/languages/handler.php:46
+msgid "VikRestaurants Take-Away Cart"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_deals/languages/handler.php:46
+msgid "VikRestaurants Take-Away Deals"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_grid/languages/handler.php:46
+msgid "VikRestaurants Take-Away Grid"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:46
+msgid "VikRestaurants Take-Away Map"
+msgstr ""
+
+#: modules/mod_vikrestaurants_worktimes/languages/handler.php:46
+msgid "VikRestaurants Worktimes"
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:78
+msgid "Visit Order Page"
+msgstr ""
+
+#: libraries/language/site.php:222
+msgid "We are sorry but the restaurant is closed for the date and time chosen"
+msgstr ""
+
+#: libraries/language/site.php:812
+msgid "We do not offer services for areas with that ZIP code."
+msgstr ""
+
+#: libraries/language/site.php:1180
+#, php-format
+msgid "We have no more %s available! Please, select a different item."
+msgstr ""
+
+#: libraries/html/rss/optin/modal.php:96
+msgid ""
+"We need you to explicitly opt in to this RSS service for GDPR compliance. "
+"Toggle the checkbox below if you are interested or leave it unchecked. You "
+"are free to change your decision in any time from the configuration of "
+"VikRestaurants."
+msgstr ""
+
+#: libraries/language/site.php:968
+msgid "We no longer accept bookings for today."
+msgstr ""
+
+#: libraries/language/site.php:1276
+msgid "We no longer accept orders for today"
+msgstr ""
+
+#: libraries/language/site.php:1768
+msgid "week"
+msgstr ""
+
+#: modules/mod_vikrestaurants_worktimes/languages/handler.php:86
+msgid "Weekly Days"
+msgstr ""
+
+#: libraries/language/site.php:1772
+msgid "weeks"
+msgstr ""
+
+#: libraries/html/feedback/thickbox.php:68
+msgid "What feature would you like to use?"
+msgstr ""
+
+#: libraries/html/rss/optin/modal.php:75
+msgid "What kind of personal data do we collect?"
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_cart/languages/handler.php:94
+msgid ""
+"When enabled, if your theme will not have conflicts with this css rule, the "
+"widget will follow the page when scrolling. Enable this option is you can "
+"place this widget on a sidebar."
+msgstr ""
+
+#: modules/mod_vikrestaurants_quickres/languages/handler.php:154
+msgid ""
+"When enabled, the form will require a ReCAPTCHA to be validated before "
+"submitting the reservation request. The ReCAPTCHA must be configured by an "
+"apposite WordPress plugin."
+msgstr ""
+
+#: libraries/language/site.php:2162
+msgid "When would you like to have this dish?"
+msgstr ""
+
+#: libraries/language/site.php:1954
+msgid ""
+"When you are done with dishes ordering, don't forget to click the \"Order "
+"Now\" button to transmit the ordered dishes to the kitchen. You are able to "
+"order further dishes as long as the bill is open.<br /><br />When you don't "
+"want to order anything else, just hit the \"Close Bill\" button."
+msgstr ""
+
+#: libraries/html/rss/optin/modal.php:53
+msgid "Why should I opt in to this service?"
+msgstr ""
+
+#: libraries/language/system.php:594
+msgid "Widget Class Suffix"
+msgstr ""
+
+#: libraries/mvc/admin/views/overrides/tmpl/default.php:97
+msgid "Widgets"
+msgstr ""
+
+#: libraries/language/site.php:226
+msgid "Working Shift"
+msgstr ""
+
+#: libraries/language/adminsys.php:272
+msgid "Working Shifts View"
+msgstr ""
+
+#: modules/mod_vikrestaurants_worktimes/widget.php:45
+msgid "Working Times"
+msgstr ""
+
+#: libraries/language/site.php:1962
+msgid "Would you like to close the bill and proceed with the payment?"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:30
+msgid "Would you like to renew and expand your business?"
+msgstr ""
+
+#: libraries/language/site.php:1312
+#, php-format
+msgid "Written by %s %s."
+msgstr ""
+
+#: libraries/language/site.php:548
+#: modules/mod_vikrestaurants_takeaway_cart/languages/handler.php:78
+msgid "x"
+msgstr ""
+
+#: libraries/lite/helper.php:644
+msgid "You already reached the maximum number of delivery areas."
+msgstr ""
+
+#: libraries/lite/helper.php:360 libraries/lite/helper.php:436
+msgid "You already reached the maximum number of menus."
+msgstr ""
+
+#: libraries/lite/helper.php:398
+msgid "You already reached the maximum number of products."
+msgstr ""
+
+#: libraries/lite/helper.php:458 libraries/lite/helper.php:522
+msgid ""
+"You already reached the maximum number of products. It is possible to create "
+"up to 7 products per menu."
+msgstr ""
+
+#: libraries/lite/helper.php:544 libraries/lite/helper.php:608
+msgid ""
+"You already reached the maximum number of toppings. It is possible to create "
+"only 2 toppings per product."
+msgstr ""
+
+#: libraries/language/site.php:1380
+msgid "You are not able to leave a review for this item!"
+msgstr ""
+
+#: libraries/language/system.php:75
+msgid "You are not authorised to access this resource."
+msgstr ""
+
+#: libraries/language/system.php:51
+msgid "You are not authorised to view this resource."
+msgstr ""
+
+#: libraries/language/system.php:907
+msgid ""
+"You can always manually create a custom page/post and use this shortcode "
+"text inside it. By proceeding, a page containing this shortcode will be "
+"automatically created. Do you want to go ahead?"
+msgstr ""
+
+#: libraries/language/site.php:2110
+msgid ""
+"You can find the PIN code within the notification e-mail received after the "
+"confirmation of your reservation. Please contact the staff of the restaurant "
+"if you are not able to recover your PIN code."
+msgstr ""
+
+#: libraries/language/site.php:1899
+msgid ""
+"You can visit the <b>Take-Away Orders</b> page in the back-end and click the "
+"<b>Stocks Overview</b> button to refill the stocks of these products."
+msgstr ""
+
+#: libraries/language/system.php:67
+msgid "You cannot call JController reserved methods."
+msgstr ""
+
+#: libraries/language/site.php:1149
+msgid "You have already placed a reservation. Please try again in %d minutes."
+msgstr ""
+
+#: libraries/language/site.php:2134
+msgid ""
+"You have run out of attempts! Please contact the staff of the restaurant."
+msgstr ""
+
+#: libraries/language/site.php:158
+#, php-format
+msgid "You have selected the table %s"
+msgstr ""
+
+#: libraries/language/site.php:1016
+msgid "You haven't placed yet any reservation"
+msgstr ""
+
+#: libraries/language/site.php:1020
+msgid "You haven't placed yet any take-away order"
+msgstr ""
+
+#: libraries/language/site.php:2130
+msgid "You only have 1 attempt left."
+msgstr ""
+
+#: libraries/language/site.php:2126
+msgid "You still have %d attempts left."
+msgstr ""
+
+#: libraries/language/site.php:2102
+msgid ""
+"You'll be asked to enter this PIN code after scanning the QR code at the "
+"restaurant, needed to start the ordering process at the table."
+msgstr ""
+
+#: modules/mod_vikrestaurants_takeaway_map/languages/handler.php:90
+msgid "Your browser does not support Geolocation."
+msgstr ""
+
+#: libraries/language/site.php:1356
+msgid "Your E-Mail"
+msgstr ""
+
+#: libraries/language/site.php:2026
+msgid "Your Food"
+msgstr ""
+
+#: libraries/language/site.php:492
+msgid "Your Information"
+msgstr ""
+
+#: libraries/mvc/admin/views/gotopro/tmpl/default.php:418
+#, php-format
+msgid "Your license key expired on <span class=\"word-keep-all\">%s</span>"
+msgstr ""
+
+#: libraries/language/site.php:740
+msgid "Your Menus"
+msgstr ""
+
+#: libraries/language/site.php:1352
+msgid "Your Name"
+msgstr ""
+
+#: libraries/language/site.php:2022
+msgid "Your Order"
+msgstr ""
+
+#: libraries/html/license/update.php:15
+msgid ""
+"Your PRO license is expired, if you proceed with the update, you'll lose "
+"access to the features unlocked with the PRO version. We strongly recommend "
+"to update the plugin only after renewing your license.\n"
+"Would you like to proceed anyway?"
+msgstr ""
+
+#: libraries/language/site.php:242
+msgid "Your Reservation"
+msgstr ""
+
+#: libraries/language/site.php:720
+msgid "Your reservation for {checkin}, {people} people is now CONFIRMED."
+msgstr ""
+
+#: libraries/language/site.php:724
+msgid "Your take-away order for {checkin} is now CONFIRMED."
+msgstr ""
+
+#: libraries/language/site.php:516
+msgid "Zip Code"
+msgstr ""
